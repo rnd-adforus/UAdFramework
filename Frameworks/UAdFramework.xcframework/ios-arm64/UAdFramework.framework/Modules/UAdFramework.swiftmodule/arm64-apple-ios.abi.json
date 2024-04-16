@@ -1,0 +1,3259 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "AppTrackingTransparency",
+        "printedName": "AppTrackingTransparency",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UserMessagingPlatform",
+        "printedName": "UserMessagingPlatform",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "AdSupport",
+        "printedName": "AdSupport",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdConfig",
+        "printedName": "UAdConfig",
+        "declKind": "Class",
+        "usr": "s:12UAdFramework0A6ConfigC",
+        "mangledName": "$s12UAdFramework0A6ConfigC",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdConfigBuilder",
+        "printedName": "UAdConfigBuilder",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdConfigBuilder",
+                "printedName": "UAdFramework.UAdConfigBuilder",
+                "usr": "s:12UAdFramework0A13ConfigBuilderC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12UAdFramework0A13ConfigBuilderCyACSScfc",
+            "mangledName": "$s12UAdFramework0A13ConfigBuilderCyACSScfc",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "setUserId",
+            "printedName": "setUserId(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A13ConfigBuilderC9setUserIdyACXDSSF",
+            "mangledName": "$s12UAdFramework0A13ConfigBuilderC9setUserIdyACXDSSF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setDebuggingMode",
+            "printedName": "setDebuggingMode(isDebug:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A13ConfigBuilderC16setDebuggingMode7isDebugACXDSb_tF",
+            "mangledName": "$s12UAdFramework0A13ConfigBuilderC16setDebuggingMode7isDebugACXDSb_tF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setChildMode",
+            "printedName": "setChildMode(isChild:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A13ConfigBuilderC12setChildMode02isF0ACXDSb_tF",
+            "mangledName": "$s12UAdFramework0A13ConfigBuilderC12setChildMode02isF0ACXDSb_tF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "build",
+            "printedName": "build()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdConfig",
+                "printedName": "UAdFramework.UAdConfig",
+                "usr": "s:12UAdFramework0A6ConfigC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A13ConfigBuilderC5buildAA0aC0CyF",
+            "mangledName": "$s12UAdFramework0A13ConfigBuilderC5buildAA0aC0CyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:12UAdFramework0A13ConfigBuilderC",
+        "mangledName": "$s12UAdFramework0A13ConfigBuilderC",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdBannerDelegate",
+        "printedName": "UAdBannerDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onBannerLoaded",
+            "printedName": "onBannerLoaded(view:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A14BannerDelegateP02onC6Loaded4viewySo6UIViewC_tF",
+            "mangledName": "$s12UAdFramework0A14BannerDelegateP02onC6Loaded4viewySo6UIViewC_tF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdBannerDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdBannerDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onBannerLoadFail",
+            "printedName": "onBannerLoadFail(msg:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A14BannerDelegateP02onC8LoadFail3msgySS_tF",
+            "mangledName": "$s12UAdFramework0A14BannerDelegateP02onC8LoadFail3msgySS_tF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdBannerDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdBannerDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onBannerClick",
+            "printedName": "onBannerClick()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A14BannerDelegateP02onC5ClickyyF",
+            "mangledName": "$s12UAdFramework0A14BannerDelegateP02onC5ClickyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdBannerDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdBannerDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:12UAdFramework0A14BannerDelegateP",
+        "mangledName": "$s12UAdFramework0A14BannerDelegateP",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdInterstitialDelegate",
+        "printedName": "UAdInterstitialDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onInterstitialLoaded",
+            "printedName": "onInterstitialLoaded()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A20InterstitialDelegateP02onC6LoadedyyF",
+            "mangledName": "$s12UAdFramework0A20InterstitialDelegateP02onC6LoadedyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdInterstitialDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdInterstitialDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onInterstitialFailed",
+            "printedName": "onInterstitialFailed(msg:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A20InterstitialDelegateP02onC6Failed3msgySS_tF",
+            "mangledName": "$s12UAdFramework0A20InterstitialDelegateP02onC6Failed3msgySS_tF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdInterstitialDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdInterstitialDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onInterstitialShow",
+            "printedName": "onInterstitialShow()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A20InterstitialDelegateP02onC4ShowyyF",
+            "mangledName": "$s12UAdFramework0A20InterstitialDelegateP02onC4ShowyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdInterstitialDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdInterstitialDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onInterstitialClick",
+            "printedName": "onInterstitialClick()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A20InterstitialDelegateP02onC5ClickyyF",
+            "mangledName": "$s12UAdFramework0A20InterstitialDelegateP02onC5ClickyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdInterstitialDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdInterstitialDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onInterstitialComplete",
+            "printedName": "onInterstitialComplete()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A20InterstitialDelegateP02onC8CompleteyyF",
+            "mangledName": "$s12UAdFramework0A20InterstitialDelegateP02onC8CompleteyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdInterstitialDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdInterstitialDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:12UAdFramework0A20InterstitialDelegateP",
+        "mangledName": "$s12UAdFramework0A20InterstitialDelegateP",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdRewardDelegate",
+        "printedName": "UAdRewardDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onRewardLoaded",
+            "printedName": "onRewardLoaded()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A14RewardDelegateP02onC6LoadedyyF",
+            "mangledName": "$s12UAdFramework0A14RewardDelegateP02onC6LoadedyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdRewardDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdRewardDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onRewardFailed",
+            "printedName": "onRewardFailed(msg:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A14RewardDelegateP02onC6Failed3msgySS_tF",
+            "mangledName": "$s12UAdFramework0A14RewardDelegateP02onC6Failed3msgySS_tF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdRewardDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdRewardDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onRewardShow",
+            "printedName": "onRewardShow()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A14RewardDelegateP02onC4ShowyyF",
+            "mangledName": "$s12UAdFramework0A14RewardDelegateP02onC4ShowyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdRewardDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdRewardDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onRewardClick",
+            "printedName": "onRewardClick()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A14RewardDelegateP02onC5ClickyyF",
+            "mangledName": "$s12UAdFramework0A14RewardDelegateP02onC5ClickyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdRewardDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdRewardDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onRewardSkip",
+            "printedName": "onRewardSkip()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A14RewardDelegateP02onC4SkipyyF",
+            "mangledName": "$s12UAdFramework0A14RewardDelegateP02onC4SkipyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdRewardDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdRewardDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onRewardComplete",
+            "printedName": "onRewardComplete()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A14RewardDelegateP02onC8CompleteyyF",
+            "mangledName": "$s12UAdFramework0A14RewardDelegateP02onC8CompleteyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdRewardDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdRewardDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onRewardClose",
+            "printedName": "onRewardClose()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A14RewardDelegateP02onC5CloseyyF",
+            "mangledName": "$s12UAdFramework0A14RewardDelegateP02onC5CloseyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdRewardDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdRewardDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:12UAdFramework0A14RewardDelegateP",
+        "mangledName": "$s12UAdFramework0A14RewardDelegateP",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdNativeAdDelegate",
+        "printedName": "UAdNativeAdDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onNativeAdLoaded",
+            "printedName": "onNativeAdLoaded(view:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A16NativeAdDelegateP02oncD6Loaded4viewySo6UIViewC_tF",
+            "mangledName": "$s12UAdFramework0A16NativeAdDelegateP02oncD6Loaded4viewySo6UIViewC_tF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdNativeAdDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdNativeAdDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onNativeAdLoadFail",
+            "printedName": "onNativeAdLoadFail(msg:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A16NativeAdDelegateP02oncD8LoadFail3msgySS_tF",
+            "mangledName": "$s12UAdFramework0A16NativeAdDelegateP02oncD8LoadFail3msgySS_tF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdNativeAdDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdNativeAdDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onNativeAdClick",
+            "printedName": "onNativeAdClick()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A16NativeAdDelegateP02oncD5ClickyyF",
+            "mangledName": "$s12UAdFramework0A16NativeAdDelegateP02oncD5ClickyyF",
+            "moduleName": "UAdFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : UAdFramework.UAdNativeAdDelegate>",
+            "sugared_genericSig": "<Self where Self : UAdFramework.UAdNativeAdDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:12UAdFramework0A16NativeAdDelegateP",
+        "mangledName": "$s12UAdFramework0A16NativeAdDelegateP",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdSetup",
+        "printedName": "UAdSetup",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "initializeAd",
+            "printedName": "initializeAd(config:completion:failure:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UAdConfig",
+                "printedName": "UAdFramework.UAdConfig",
+                "usr": "s:12UAdFramework0A6ConfigC"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A5SetupC12initializeAd6config10completion7failureyAA0A6ConfigC_yycySSctFZ",
+            "mangledName": "$s12UAdFramework0A5SetupC12initializeAd6config10completion7failureyAA0A6ConfigC_yycySSctFZ",
+            "moduleName": "UAdFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "initializeAd",
+            "printedName": "initializeAd(view:config:completion:failure:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UAdConfig",
+                "printedName": "UAdFramework.UAdConfig",
+                "usr": "s:12UAdFramework0A6ConfigC"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.String) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A5SetupC12initializeAd4view6config10completion7failureySo16UIViewControllerC_AA0A6ConfigCyycySSctFZ",
+            "mangledName": "$s12UAdFramework0A5SetupC12initializeAd4view6config10completion7failureySo16UIViewControllerC_AA0A6ConfigCyycySSctFZ",
+            "moduleName": "UAdFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:12UAdFramework0A5SetupC",
+        "mangledName": "$s12UAdFramework0A5SetupC",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdBanner",
+        "printedName": "UAdBanner",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(adCode:adEvent:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdBanner",
+                "printedName": "UAdFramework.UAdBanner",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdBanner"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any UAdFramework.UAdBannerDelegate)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UAdBannerDelegate",
+                    "printedName": "any UAdFramework.UAdBannerDelegate",
+                    "usr": "s:12UAdFramework0A14BannerDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12UAdFramework0A6BannerC6adCode0D5EventACSS_AA0aC8Delegate_pSgtcfc",
+            "mangledName": "$s12UAdFramework0A6BannerC6adCode0D5EventACSS_AA0aC8Delegate_pSgtcfc",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "didMoveToSuperview",
+            "printedName": "didMoveToSuperview()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdBanner(im)didMoveToSuperview",
+            "mangledName": "$s12UAdFramework0A6BannerC18didMoveToSuperviewyyF",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "objc_name": "didMoveToSuperview",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "load",
+            "printedName": "load()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A6BannerC4loadyyF",
+            "mangledName": "$s12UAdFramework0A6BannerC4loadyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getView",
+            "printedName": "getView()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A6BannerC7getViewSo6UIViewCyF",
+            "mangledName": "$s12UAdFramework0A6BannerC7getViewSo6UIViewCyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setSize",
+            "printedName": "setSize(size:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BannerSize",
+                "printedName": "UAdFramework.BannerSize",
+                "usr": "s:12UAdFramework10BannerSizeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A6BannerC7setSize4sizeyAA0cE0O_tF",
+            "mangledName": "$s12UAdFramework0A6BannerC7setSize4sizeyAA0cE0O_tF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdBanner",
+                "printedName": "UAdFramework.UAdBanner",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdBanner"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdBanner(im)initWithFrame:",
+            "mangledName": "$s12UAdFramework0A6BannerC5frameACSo6CGRectV_tcfc",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@UAdFramework@objc(cs)UAdBanner",
+        "mangledName": "$s12UAdFramework0A6BannerC",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "UserMessagingPlatform",
+        "printedName": "UserMessagingPlatform",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "PangleAdapter",
+        "printedName": "PangleAdapter",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "UnityAdapter",
+        "printedName": "UnityAdapter",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "UnityAds",
+        "printedName": "UnityAds",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdNativeAd",
+        "printedName": "UAdNativeAd",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(adCode:adEvent:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdNativeAd",
+                "printedName": "UAdFramework.UAdNativeAd",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any UAdFramework.UAdNativeAdDelegate)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UAdNativeAdDelegate",
+                    "printedName": "any UAdFramework.UAdNativeAdDelegate",
+                    "usr": "s:12UAdFramework0A16NativeAdDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12UAdFramework0A8NativeAdC6adCode0E5EventACSS_AA0acD8Delegate_pSgtcfc",
+            "mangledName": "$s12UAdFramework0A8NativeAdC6adCode0E5EventACSS_AA0acD8Delegate_pSgtcfc",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "load",
+            "printedName": "load()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A8NativeAdC4loadyyF",
+            "mangledName": "$s12UAdFramework0A8NativeAdC4loadyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setNib",
+            "printedName": "setNib(name:id:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A8NativeAdC6setNib4name2idySS_SStF",
+            "mangledName": "$s12UAdFramework0A8NativeAdC6setNib4name2idySS_SStF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getUAdNativeAdContainer",
+            "printedName": "getUAdNativeAdContainer()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UAdFramework.UAdNativeAdContainer?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UAdNativeAdContainer",
+                    "printedName": "UAdFramework.UAdNativeAdContainer",
+                    "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A8NativeAdC03getacD9ContainerAA0acdF0CSgyF",
+            "mangledName": "$s12UAdFramework0A8NativeAdC03getacD9ContainerAA0acdF0CSgyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdNativeAd",
+                "printedName": "UAdFramework.UAdNativeAd",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAd"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAd(im)initWithFrame:",
+            "mangledName": "$s12UAdFramework0A8NativeAdC5frameACSo6CGRectV_tcfc",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAd",
+        "mangledName": "$s12UAdFramework0A8NativeAdC",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BannerSize",
+        "printedName": "BannerSize",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "SIZE_320X50",
+            "printedName": "SIZE_320X50",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(UAdFramework.BannerSize.Type) -> UAdFramework.BannerSize",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BannerSize",
+                    "printedName": "UAdFramework.BannerSize",
+                    "usr": "s:12UAdFramework10BannerSizeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "UAdFramework.BannerSize.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BannerSize",
+                        "printedName": "UAdFramework.BannerSize",
+                        "usr": "s:12UAdFramework10BannerSizeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12UAdFramework10BannerSizeO11SIZE_320X50yA2CmF",
+            "mangledName": "$s12UAdFramework10BannerSizeO11SIZE_320X50yA2CmF",
+            "moduleName": "UAdFramework"
+          },
+          {
+            "kind": "Var",
+            "name": "SIZE_300X250",
+            "printedName": "SIZE_300X250",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(UAdFramework.BannerSize.Type) -> UAdFramework.BannerSize",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BannerSize",
+                    "printedName": "UAdFramework.BannerSize",
+                    "usr": "s:12UAdFramework10BannerSizeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "UAdFramework.BannerSize.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BannerSize",
+                        "printedName": "UAdFramework.BannerSize",
+                        "usr": "s:12UAdFramework10BannerSizeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12UAdFramework10BannerSizeO12SIZE_300X250yA2CmF",
+            "mangledName": "$s12UAdFramework10BannerSizeO12SIZE_300X250yA2CmF",
+            "moduleName": "UAdFramework"
+          },
+          {
+            "kind": "Var",
+            "name": "SIZE_320X100",
+            "printedName": "SIZE_320X100",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(UAdFramework.BannerSize.Type) -> UAdFramework.BannerSize",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BannerSize",
+                    "printedName": "UAdFramework.BannerSize",
+                    "usr": "s:12UAdFramework10BannerSizeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "UAdFramework.BannerSize.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BannerSize",
+                        "printedName": "UAdFramework.BannerSize",
+                        "usr": "s:12UAdFramework10BannerSizeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12UAdFramework10BannerSizeO12SIZE_320X100yA2CmF",
+            "mangledName": "$s12UAdFramework10BannerSizeO12SIZE_320X100yA2CmF",
+            "moduleName": "UAdFramework"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UAdFramework.BannerSize?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BannerSize",
+                    "printedName": "UAdFramework.BannerSize",
+                    "usr": "s:12UAdFramework10BannerSizeO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12UAdFramework10BannerSizeO8rawValueACSgSS_tcfc",
+            "mangledName": "$s12UAdFramework10BannerSizeO8rawValueACSgSS_tcfc",
+            "moduleName": "UAdFramework",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12UAdFramework10BannerSizeO8rawValueSSvp",
+            "mangledName": "$s12UAdFramework10BannerSizeO8rawValueSSvp",
+            "moduleName": "UAdFramework",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12UAdFramework10BannerSizeO8rawValueSSvg",
+                "mangledName": "$s12UAdFramework10BannerSizeO8rawValueSSvg",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "allCases",
+            "printedName": "allCases",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UAdFramework.BannerSize]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BannerSize",
+                    "printedName": "UAdFramework.BannerSize",
+                    "usr": "s:12UAdFramework10BannerSizeO"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12UAdFramework10BannerSizeO8allCasesSayACGvpZ",
+            "mangledName": "$s12UAdFramework10BannerSizeO8allCasesSayACGvpZ",
+            "moduleName": "UAdFramework",
+            "static": true,
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[UAdFramework.BannerSize]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BannerSize",
+                        "printedName": "UAdFramework.BannerSize",
+                        "usr": "s:12UAdFramework10BannerSizeO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12UAdFramework10BannerSizeO8allCasesSayACGvgZ",
+                "mangledName": "$s12UAdFramework10BannerSizeO8allCasesSayACGvgZ",
+                "moduleName": "UAdFramework",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:12UAdFramework10BannerSizeO",
+        "mangledName": "$s12UAdFramework10BannerSizeO",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CaseIterable",
+            "printedName": "CaseIterable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "AllCases",
+                "printedName": "AllCases",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[UAdFramework.BannerSize]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BannerSize",
+                        "printedName": "UAdFramework.BannerSize",
+                        "usr": "s:12UAdFramework10BannerSizeO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12CaseIterableP",
+            "mangledName": "$ss12CaseIterableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdNativeAdContainer",
+        "printedName": "UAdNativeAdContainer",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "icon",
+            "printedName": "icon",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "UIKit.UIImageView?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(py)icon",
+            "mangledName": "$s12UAdFramework0A17NativeAdContainerC4iconSo11UIImageViewCSgvp",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "Custom",
+              "AccessControl",
+              "ReferenceOwnership",
+              "IBOutlet",
+              "ObjC"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIImageView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImageView",
+                        "printedName": "UIKit.UIImageView",
+                        "usr": "c:objc(cs)UIImageView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)icon",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC4iconSo11UIImageViewCSgvg",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIImageView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIImageView",
+                        "printedName": "UIKit.UIImageView",
+                        "usr": "c:objc(cs)UIImageView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)setIcon:",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC4iconSo11UIImageViewCSgvs",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12UAdFramework0A17NativeAdContainerC4iconSo11UIImageViewCSgvM",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC4iconSo11UIImageViewCSgvM",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "title",
+            "printedName": "title",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "UIKit.UILabel?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(py)title",
+            "mangledName": "$s12UAdFramework0A17NativeAdContainerC5titleSo7UILabelCSgvp",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "Custom",
+              "AccessControl",
+              "ReferenceOwnership",
+              "IBOutlet",
+              "ObjC"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UILabel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UILabel",
+                        "printedName": "UIKit.UILabel",
+                        "usr": "c:objc(cs)UILabel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)title",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC5titleSo7UILabelCSgvg",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UILabel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UILabel",
+                        "printedName": "UIKit.UILabel",
+                        "usr": "c:objc(cs)UILabel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)setTitle:",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC5titleSo7UILabelCSgvs",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12UAdFramework0A17NativeAdContainerC5titleSo7UILabelCSgvM",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC5titleSo7UILabelCSgvM",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "body",
+            "printedName": "body",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "UIKit.UILabel?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(py)body",
+            "mangledName": "$s12UAdFramework0A17NativeAdContainerC4bodySo7UILabelCSgvp",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "Custom",
+              "AccessControl",
+              "ReferenceOwnership",
+              "IBOutlet",
+              "ObjC"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UILabel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UILabel",
+                        "printedName": "UIKit.UILabel",
+                        "usr": "c:objc(cs)UILabel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)body",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC4bodySo7UILabelCSgvg",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UILabel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UILabel",
+                        "printedName": "UIKit.UILabel",
+                        "usr": "c:objc(cs)UILabel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)setBody:",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC4bodySo7UILabelCSgvs",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12UAdFramework0A17NativeAdContainerC4bodySo7UILabelCSgvM",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC4bodySo7UILabelCSgvM",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "media",
+            "printedName": "media",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "UIKit.UIView?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(py)media",
+            "mangledName": "$s12UAdFramework0A17NativeAdContainerC5mediaSo6UIViewCSgvp",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "Custom",
+              "AccessControl",
+              "ReferenceOwnership",
+              "IBOutlet",
+              "ObjC"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIView",
+                        "printedName": "UIKit.UIView",
+                        "usr": "c:objc(cs)UIView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)media",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC5mediaSo6UIViewCSgvg",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIView?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIView",
+                        "printedName": "UIKit.UIView",
+                        "usr": "c:objc(cs)UIView"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)setMedia:",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC5mediaSo6UIViewCSgvs",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12UAdFramework0A17NativeAdContainerC5mediaSo6UIViewCSgvM",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC5mediaSo6UIViewCSgvM",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "price",
+            "printedName": "price",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "UIKit.UILabel?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(py)price",
+            "mangledName": "$s12UAdFramework0A17NativeAdContainerC5priceSo7UILabelCSgvp",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "Custom",
+              "AccessControl",
+              "ReferenceOwnership",
+              "IBOutlet",
+              "ObjC"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UILabel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UILabel",
+                        "printedName": "UIKit.UILabel",
+                        "usr": "c:objc(cs)UILabel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)price",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC5priceSo7UILabelCSgvg",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UILabel?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UILabel",
+                        "printedName": "UIKit.UILabel",
+                        "usr": "c:objc(cs)UILabel"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)setPrice:",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC5priceSo7UILabelCSgvs",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12UAdFramework0A17NativeAdContainerC5priceSo7UILabelCSgvM",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC5priceSo7UILabelCSgvM",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "action",
+            "printedName": "action",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "UIKit.UIButton?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(py)action",
+            "mangledName": "$s12UAdFramework0A17NativeAdContainerC6actionSo8UIButtonCSgvp",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "Custom",
+              "AccessControl",
+              "ReferenceOwnership",
+              "IBOutlet",
+              "ObjC"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIButton?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIButton",
+                        "printedName": "UIKit.UIButton",
+                        "usr": "c:objc(cs)UIButton"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)action",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC6actionSo8UIButtonCSgvg",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "UIKit.UIButton?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UIButton",
+                        "printedName": "UIKit.UIButton",
+                        "usr": "c:objc(cs)UIButton"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)setAction:",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC6actionSo8UIButtonCSgvs",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12UAdFramework0A17NativeAdContainerC6actionSo8UIButtonCSgvM",
+                "mangledName": "$s12UAdFramework0A17NativeAdContainerC6actionSo8UIButtonCSgvM",
+                "moduleName": "UAdFramework",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdNativeAdContainer",
+                "printedName": "UAdFramework.UAdNativeAdContainer",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)initWithFrame:",
+            "mangledName": "$s12UAdFramework0A17NativeAdContainerC5frameACSo6CGRectV_tcfc",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithFrame:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UAdFramework.UAdNativeAdContainer?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UAdNativeAdContainer",
+                    "printedName": "UAdFramework.UAdNativeAdContainer",
+                    "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer(im)initWithCoder:",
+            "mangledName": "$s12UAdFramework0A17NativeAdContainerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdContainer",
+        "mangledName": "$s12UAdFramework0A17NativeAdContainerC",
+        "moduleName": "UAdFramework",
+        "isOpen": true,
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIView",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIView",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "__DefaultCustomPlaygroundQuickLookable",
+            "printedName": "__DefaultCustomPlaygroundQuickLookable",
+            "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+            "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdReward",
+        "printedName": "UAdReward",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(viewController:adCode:adEvent:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdReward",
+                "printedName": "UAdFramework.UAdReward",
+                "usr": "s:12UAdFramework0A6RewardC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any UAdFramework.UAdRewardDelegate)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UAdRewardDelegate",
+                    "printedName": "any UAdFramework.UAdRewardDelegate",
+                    "usr": "s:12UAdFramework0A14RewardDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12UAdFramework0A6RewardC14viewController6adCode0F5EventACSo06UIViewE0C_SSAA0aC8Delegate_pSgtcfc",
+            "mangledName": "$s12UAdFramework0A6RewardC14viewController6adCode0F5EventACSo06UIViewE0C_SSAA0aC8Delegate_pSgtcfc",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "load",
+            "printedName": "load()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A6RewardC4loadyyF",
+            "mangledName": "$s12UAdFramework0A6RewardC4loadyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "show",
+            "printedName": "show()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A6RewardC4showyyF",
+            "mangledName": "$s12UAdFramework0A6RewardC4showyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:12UAdFramework0A6RewardC",
+        "mangledName": "$s12UAdFramework0A6RewardC",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdInterstitial",
+        "printedName": "UAdInterstitial",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(viewController:adCode:adEvent:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdInterstitial",
+                "printedName": "UAdFramework.UAdInterstitial",
+                "usr": "s:12UAdFramework0A12InterstitialC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any UAdFramework.UAdInterstitialDelegate)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UAdInterstitialDelegate",
+                    "printedName": "any UAdFramework.UAdInterstitialDelegate",
+                    "usr": "s:12UAdFramework0A20InterstitialDelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12UAdFramework0A12InterstitialC14viewController6adCode0F5EventACSo06UIViewE0C_SSAA0aC8Delegate_pSgtcfc",
+            "mangledName": "$s12UAdFramework0A12InterstitialC14viewController6adCode0F5EventACSo06UIViewE0C_SSAA0aC8Delegate_pSgtcfc",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "load",
+            "printedName": "load()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A12InterstitialC4loadyyF",
+            "mangledName": "$s12UAdFramework0A12InterstitialC4loadyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "show",
+            "printedName": "show()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A12InterstitialC4showyyF",
+            "mangledName": "$s12UAdFramework0A12InterstitialC4showyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:12UAdFramework0A12InterstitialC",
+        "mangledName": "$s12UAdFramework0A12InterstitialC",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/Log.swift",
+      "kind": "BooleanLiteral",
+      "offset": 127,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdNetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 252,
+      "length": 15,
+      "value": "\"api.mplate.kr\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdNetworkManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2980,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "kind": "StringLiteral",
+      "offset": 255,
+      "length": 5,
+      "value": "\"rst\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "kind": "StringLiteral",
+      "offset": 284,
+      "length": 5,
+      "value": "\"msg\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "kind": "StringLiteral",
+      "offset": 255,
+      "length": 5,
+      "value": "\"rst\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "kind": "StringLiteral",
+      "offset": 284,
+      "length": 5,
+      "value": "\"msg\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "kind": "StringLiteral",
+      "offset": 516,
+      "length": 5,
+      "value": "\"ads\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "kind": "StringLiteral",
+      "offset": 516,
+      "length": 5,
+      "value": "\"ads\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "kind": "StringLiteral",
+      "offset": 722,
+      "length": 6,
+      "value": "\"zone\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "kind": "StringLiteral",
+      "offset": 722,
+      "length": 6,
+      "value": "\"zone\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdBanner.swift",
+      "kind": "StringLiteral",
+      "offset": 133,
+      "length": 9,
+      "value": "\"UAdFramework.UAdBanner\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdBanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3378,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdBanner.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3412,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/ApiConnection.swift",
+      "kind": "BooleanLiteral",
+      "offset": 556,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/ApiConnection.swift",
+      "kind": "StringLiteral",
+      "offset": 3974,
+      "length": 6,
+      "value": "\"None\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdNativeAd.swift",
+      "kind": "StringLiteral",
+      "offset": 134,
+      "length": 11,
+      "value": "\"UAdFramework.UAdNativeAd\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdNativeAd.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3567,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdNativeAd.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3601,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 126,
+      "length": 8,
+      "value": "\"af_ads\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 199,
+      "length": 7,
+      "value": "\"debug\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 238,
+      "length": 12,
+      "value": "\"app_unique\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 276,
+      "length": 6,
+      "value": "\"gaid\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 332,
+      "length": 12,
+      "value": "\"ad_tacking\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 375,
+      "length": 6,
+      "value": "\"dvid\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 439,
+      "length": 6,
+      "value": "\"gdpr\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 499,
+      "length": 9,
+      "value": "\"consent\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 563,
+      "length": 7,
+      "value": "\"child\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 599,
+      "length": 5,
+      "value": "\"uid\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
+      "kind": "StringLiteral",
+      "offset": 153,
+      "length": 8,
+      "value": "\"320X50\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
+      "kind": "StringLiteral",
+      "offset": 186,
+      "length": 9,
+      "value": "\"300X250\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
+      "kind": "StringLiteral",
+      "offset": 220,
+      "length": 9,
+      "value": "\"320X100\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
+      "kind": "StringLiteral",
+      "offset": 153,
+      "length": 8,
+      "value": "\"320X50\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
+      "kind": "StringLiteral",
+      "offset": 186,
+      "length": 9,
+      "value": "\"300X250\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
+      "kind": "StringLiteral",
+      "offset": 220,
+      "length": 9,
+      "value": "\"320X100\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdReward.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4884,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdInterstitial.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4823,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdCommon.swift",
+      "kind": "Dictionary",
+      "offset": 227,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 125,
+      "length": 8,
+      "value": "\"banner\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 167,
+      "length": 14,
+      "value": "\"interstitial\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 209,
+      "length": 8,
+      "value": "\"reward\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 245,
+      "length": 10,
+      "value": "\"nativead\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 285,
+      "length": 5,
+      "value": "\"req\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 320,
+      "length": 6,
+      "value": "\"load\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 356,
+      "length": 6,
+      "value": "\"show\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 393,
+      "length": 7,
+      "value": "\"close\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 430,
+      "length": 6,
+      "value": "\"fail\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 466,
+      "length": 6,
+      "value": "\"noad\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "kind": "StringLiteral",
+      "offset": 509,
+      "length": 4,
+      "value": "\"DF\""
+    }
+  ]
+}

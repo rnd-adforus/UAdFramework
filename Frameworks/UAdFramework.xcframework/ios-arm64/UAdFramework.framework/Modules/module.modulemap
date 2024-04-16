@@ -1,0 +1,11 @@
+framework module UAdFramework {
+  umbrella header "UAdFramework.h"
+  export *
+
+  module * { export * }
+}
+
+module UAdFramework.Swift {
+  header "UAdFramework-Swift.h"
+  requires objc
+}

@@ -1,0 +1,115 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Osize -enable-bare-slash-regex -module-name UAdFramework
+import AdSupport
+import Alamofire
+import AppTrackingTransparency
+import Foundation
+import GoogleMobileAds
+import PangleAdapter
+import Swift
+@_exported import UAdFramework
+import UIKit
+import UnityAdapter
+import UnityAds
+import UserMessagingPlatform
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_hasMissingDesignatedInitializers public class UAdConfig {
+  @objc deinit
+}
+public class UAdConfigBuilder {
+  public init(_ appUniqueKey: Swift.String)
+  public func setUserId(_ userId: Swift.String) -> Self
+  public func setDebuggingMode(isDebug: Swift.Bool) -> Self
+  public func setChildMode(isChild: Swift.Bool) -> Self
+  public func build() -> UAdFramework.UAdConfig
+  @objc deinit
+}
+public protocol UAdBannerDelegate {
+  func onBannerLoaded(view: UIKit.UIView)
+  func onBannerLoadFail(msg: Swift.String)
+  func onBannerClick()
+}
+public protocol UAdInterstitialDelegate {
+  func onInterstitialLoaded()
+  func onInterstitialFailed(msg: Swift.String)
+  func onInterstitialShow()
+  func onInterstitialClick()
+  func onInterstitialComplete()
+}
+public protocol UAdRewardDelegate {
+  func onRewardLoaded()
+  func onRewardFailed(msg: Swift.String)
+  func onRewardShow()
+  func onRewardClick()
+  func onRewardSkip()
+  func onRewardComplete()
+  func onRewardClose()
+}
+public protocol UAdNativeAdDelegate {
+  func onNativeAdLoaded(view: UIKit.UIView)
+  func onNativeAdLoadFail(msg: Swift.String)
+  func onNativeAdClick()
+}
+@_hasMissingDesignatedInitializers public class UAdSetup {
+  public static func initializeAd(config: UAdFramework.UAdConfig, completion: @escaping () -> Swift.Void, failure: @escaping (Swift.String) -> Swift.Void)
+  public static func initializeAd(view: UIKit.UIViewController, config: UAdFramework.UAdConfig, completion: @escaping () -> Swift.Void, failure: @escaping (Swift.String) -> Swift.Void)
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class UAdBanner : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) public init(adCode: Swift.String, adEvent: (any UAdFramework.UAdBannerDelegate)?)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func didMoveToSuperview()
+  @_Concurrency.MainActor(unsafe) public func load()
+  @_Concurrency.MainActor(unsafe) public func getView() -> UIKit.UIView
+  @_Concurrency.MainActor(unsafe) public func setSize(size: UAdFramework.BannerSize)
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class UAdNativeAd : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) public init(adCode: Swift.String, adEvent: (any UAdFramework.UAdNativeAdDelegate)?)
+  @_Concurrency.MainActor(unsafe) public func load()
+  @_Concurrency.MainActor(unsafe) public func setNib(name: Swift.String, id: Swift.String)
+  @_Concurrency.MainActor(unsafe) public func getUAdNativeAdContainer() -> UAdFramework.UAdNativeAdContainer?
+  @objc deinit
+}
+public enum BannerSize : Swift.String, Swift.CaseIterable {
+  case SIZE_320X50
+  case SIZE_300X250
+  case SIZE_320X100
+  public init?(rawValue: Swift.String)
+  public typealias AllCases = [UAdFramework.BannerSize]
+  public typealias RawValue = Swift.String
+  public static var allCases: [UAdFramework.BannerSize] {
+    get
+  }
+  public var rawValue: Swift.String {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @objcMembers @_Concurrency.MainActor(unsafe) open class UAdNativeAdContainer : UIKit.UIView {
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var icon: UIKit.UIImageView!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var title: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var body: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var media: UIKit.UIView!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var price: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var action: UIKit.UIButton!
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+public class UAdReward {
+  public init(viewController: UIKit.UIViewController, adCode: Swift.String, adEvent: (any UAdFramework.UAdRewardDelegate)?)
+  public func load()
+  public func show()
+  @objc deinit
+}
+public class UAdInterstitial {
+  public init(viewController: UIKit.UIViewController, adCode: Swift.String, adEvent: (any UAdFramework.UAdInterstitialDelegate)?)
+  public func load()
+  public func show()
+  @objc deinit
+}
+extension UAdFramework.BannerSize : Swift.Equatable {}
+extension UAdFramework.BannerSize : Swift.Hashable {}
+extension UAdFramework.BannerSize : Swift.RawRepresentable {}
