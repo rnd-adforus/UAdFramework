@@ -4,9 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>ios-arm64/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
+		<data>
+		j4BXeJiElfTFYxCOi95Dpt9GgQU=
+		</data>
+		<key>ios-arm64/UAdFramework.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		/9EtcEGxvliJS6WqSyAMGN1TBwE=
+		</data>
 		<key>ios-arm64/UAdFramework.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		5gK/RxyFuq7JnjNs2b99yXGvEgw=
+		wscnr7BaAbAJyYA6n9A26vlTWB4=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -46,21 +54,21 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/Assets.car</key>
 		<data>
-		P7xHMDHBSjRNbUXA62Yt6C8DzD4=
+		UrPpP43KLnPkbxMD0huS6fvsfjM=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/Info.plist</key>
 		<data>
-		oivDmWZl0xFk7xFDiXfKXWRbraw=
+		nzDAcgidEA7JyHwXx4x/38M+xEk=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
-		CuKnx6erFVqn6Bb3/O1B/slSB2A=
+		/9EtcEGxvliJS6WqSyAMGN1TBwE=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/ar.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5495dvARBDHRoJEFnjCtA2T+XfE=
+			4eaGI9trJIGWCfn3lMhmKLrPyhU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -89,7 +97,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X5yFOZVMrUiw9ZkDGXrEfenccSE=
+			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -98,7 +106,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WPk+SoItn8E+9+y2Xo1qGJJtvKo=
+			58Npg7w8TY7shN7my/ywUxt/ARo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -107,7 +115,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WmON5jmb5xHdqPbkJEMmIgz41XU=
+			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -116,7 +124,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvS/7hYjwSvgHoov8JXlkMnhvVE=
+			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -125,7 +133,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFAUkyfOMWv3gcZz1TR1ONyYTfw=
+			evCM/3g9lrqdARjHA7rEH8hEdjs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -134,7 +142,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nlgf5wSFwq51F04+haBszNZA/0o=
+			SyxuD58zcWd2cK25u6HOlxWnUIQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -143,7 +151,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UwhQTqbLKFW6rPTbHKDx/kzJ9ME=
+			rhzNvMqLlBZxFoxa9ZBcYmlch30=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -152,7 +160,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vF6sV084YPkxTUb1NnRAWjk4ees=
+			AxrqixmnReya7x4HzVhH+XnJ+iQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -161,7 +169,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xzqhUPmTjVQv54pcqJCLhnIiaPM=
+			j7eK4DXWtr7srFumMxen2eX5TkM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -170,7 +178,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cGjY6m4TquPd3grwFEis6rInxMY=
+			6dFl2OWKvGDXOQW6SZvpyRxspR8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -183,7 +191,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ikSXFPq3DgWtN+OKn+BbXPOYFcA=
+			Iik9TjhcuZ3yronDbVFhrUkDNRc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -192,7 +200,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			odl/Q0y0LWMqOcvTHUpTHAtk7nA=
+			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -201,7 +209,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RYwllR7vDJFVxnbAs3l83+k+pn0=
+			pd7No7wzDyU/4ehShd/PIXHYxQw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -218,7 +226,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5dJ5p46AMue2jHzTDiyBlrsNRP8=
+			WvKpn2sLPi9SwI9KV+pFWkLelIM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -227,20 +235,20 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BR2SiixL4R5uLS4EJaUFQrYlpNY=
+			xvcxbmHj7ATa68mXJIYVjEMxQuw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/version.txt</key>
 		<data>
-		qckJM7vHaV62VsHkwiCFZAz/TnQ=
+		wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			puMu67GOoZaW2GGyJm1HAxTLzNY=
+			j14MAF+acsCeRtTugubXq7SsLPA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -249,7 +257,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			92msRAtJqlzBTgroA4uVIXoQmK8=
+			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -258,26 +266,34 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D9J30JlusBLIENsMP0VS7YGp/ZE=
+			VAB8x7rCkBYnw2VLao0BL85zxWA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		ZyZGFzOaFwrXZ7bUEw/v4hlel68=
+		vd060FcqH8lvJ6cLkwtobvYaPko=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UAdFramework</key>
 		<data>
-		WwcxjlzPILFPr4rBQze+vMFoUXM=
+		/jsbr9ekcVfwPokAcjJu8VJ6XM4=
 		</data>
-		<key>ios-arm64/UAdFramework.framework/UnityAds.bundle/Info.plist</key>
+		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<data>
-		zVtt7QH+vq2WIW8tMuUMHCctxN8=
+		gMMYRPEnhb4Fzt81RWS5Ncok8YM=
 		</data>
-		<key>ios-arm64/UAdFramework.framework/UnityAds.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
 		Vmr7Tv9rcKyDvK3D48LDE7Da57Y=
+		</data>
+		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
+		<data>
+		CYrPj5o14ZkSV5tSn5grkOsAghM=
+		</data>
+		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
+		<data>
+		xFoo41tIvFKNNRq9NwW500wQtM8=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
@@ -289,11 +305,19 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Q+Y8gf1+VYfG3RyQ4Upc9D/PU94=
+		bxweVA09pe/nJ0YystOKoma+yZs=
+		</data>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
+		<data>
+		tBwXDLUwn+jMktQV+fsnTNJYvMw=
+		</data>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		/9EtcEGxvliJS6WqSyAMGN1TBwE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		L0O7DZZkJQ9AIs0fy27mI43rlwQ=
+		B71XncgUJZGP+4CuX7UdN3VsYLI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -349,21 +373,21 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/Assets.car</key>
 		<data>
-		P7xHMDHBSjRNbUXA62Yt6C8DzD4=
+		UrPpP43KLnPkbxMD0huS6fvsfjM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/Info.plist</key>
 		<data>
-		oivDmWZl0xFk7xFDiXfKXWRbraw=
+		nzDAcgidEA7JyHwXx4x/38M+xEk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
-		CuKnx6erFVqn6Bb3/O1B/slSB2A=
+		/9EtcEGxvliJS6WqSyAMGN1TBwE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/ar.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5495dvARBDHRoJEFnjCtA2T+XfE=
+			4eaGI9trJIGWCfn3lMhmKLrPyhU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -392,7 +416,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X5yFOZVMrUiw9ZkDGXrEfenccSE=
+			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -401,7 +425,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WPk+SoItn8E+9+y2Xo1qGJJtvKo=
+			58Npg7w8TY7shN7my/ywUxt/ARo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -410,7 +434,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WmON5jmb5xHdqPbkJEMmIgz41XU=
+			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -419,7 +443,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvS/7hYjwSvgHoov8JXlkMnhvVE=
+			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -428,7 +452,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFAUkyfOMWv3gcZz1TR1ONyYTfw=
+			evCM/3g9lrqdARjHA7rEH8hEdjs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -437,7 +461,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nlgf5wSFwq51F04+haBszNZA/0o=
+			SyxuD58zcWd2cK25u6HOlxWnUIQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -446,7 +470,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UwhQTqbLKFW6rPTbHKDx/kzJ9ME=
+			rhzNvMqLlBZxFoxa9ZBcYmlch30=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -455,7 +479,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vF6sV084YPkxTUb1NnRAWjk4ees=
+			AxrqixmnReya7x4HzVhH+XnJ+iQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -464,7 +488,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xzqhUPmTjVQv54pcqJCLhnIiaPM=
+			j7eK4DXWtr7srFumMxen2eX5TkM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -473,7 +497,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cGjY6m4TquPd3grwFEis6rInxMY=
+			6dFl2OWKvGDXOQW6SZvpyRxspR8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -486,7 +510,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ikSXFPq3DgWtN+OKn+BbXPOYFcA=
+			Iik9TjhcuZ3yronDbVFhrUkDNRc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -495,7 +519,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			odl/Q0y0LWMqOcvTHUpTHAtk7nA=
+			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -504,7 +528,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RYwllR7vDJFVxnbAs3l83+k+pn0=
+			pd7No7wzDyU/4ehShd/PIXHYxQw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -521,7 +545,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5dJ5p46AMue2jHzTDiyBlrsNRP8=
+			WvKpn2sLPi9SwI9KV+pFWkLelIM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -530,20 +554,20 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BR2SiixL4R5uLS4EJaUFQrYlpNY=
+			xvcxbmHj7ATa68mXJIYVjEMxQuw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/version.txt</key>
 		<data>
-		qckJM7vHaV62VsHkwiCFZAz/TnQ=
+		wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			puMu67GOoZaW2GGyJm1HAxTLzNY=
+			j14MAF+acsCeRtTugubXq7SsLPA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -552,7 +576,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			92msRAtJqlzBTgroA4uVIXoQmK8=
+			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -561,26 +585,34 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D9J30JlusBLIENsMP0VS7YGp/ZE=
+			VAB8x7rCkBYnw2VLao0BL85zxWA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		T5vR9QNp963QP5JTprKvNjvvdmc=
+		vd060FcqH8lvJ6cLkwtobvYaPko=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UAdFramework</key>
 		<data>
-		3Cppc3KakdwmPySY6UF9bp/p+wA=
+		6SB7NkfFOMd/JWU/IatplCl6Bx4=
 		</data>
-		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAds.bundle/Info.plist</key>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<data>
-		zyjKmDr9cG4oOUozs+bT+wEQqYI=
+		B0cBxLSCW98vpj+cFPghejtzalg=
 		</data>
-		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAds.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
 		Vmr7Tv9rcKyDvK3D48LDE7Da57Y=
+		</data>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
+		<data>
+		CYrPj5o14ZkSV5tSn5grkOsAghM=
+		</data>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
+		<data>
+		xFoo41tIvFKNNRq9NwW500wQtM8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
@@ -592,20 +624,42 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		84iDQaDaM6O0rrN8PI7qt/eGQ2k=
+		lhV2AvMhvmXEgUlG+5qQ7WQ/UsY=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>ios-arm64/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j4BXeJiElfTFYxCOi95Dpt9GgQU=
+			</data>
+			<key>hash2</key>
+			<data>
+			UvPgb73HLngFgrUTX/mQO1DlCyoQMVo9n9Mb4s5ZbVE=
+			</data>
+		</dict>
+		<key>ios-arm64/UAdFramework.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/9EtcEGxvliJS6WqSyAMGN1TBwE=
+			</data>
+			<key>hash2</key>
+			<data>
+			y5cXDuafZAHCK9CZXFBYYkEI7u+LZGwDEwlq24JR8ik=
+			</data>
+		</dict>
 		<key>ios-arm64/UAdFramework.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5gK/RxyFuq7JnjNs2b99yXGvEgw=
+			wscnr7BaAbAJyYA6n9A26vlTWB4=
 			</data>
 			<key>hash2</key>
 			<data>
-			h6nGBuXWutXfnyAM5vsAJz7dYIUBKwH8qbe2wGCyh8U=
+			V/+hPCwF2bXspwxMAi30Arve08mdrIIokrSoaZqey9s=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -711,44 +765,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P7xHMDHBSjRNbUXA62Yt6C8DzD4=
+			UrPpP43KLnPkbxMD0huS6fvsfjM=
 			</data>
 			<key>hash2</key>
 			<data>
-			YxqKhqfQ+Vpv5WtyfQdutGDG/PzGNcAn+LuV4oTDpMk=
+			s4F5CvmYgjTk7cegdPwLoDmSEPwY7fTWx3GQCVAZBEs=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oivDmWZl0xFk7xFDiXfKXWRbraw=
+			nzDAcgidEA7JyHwXx4x/38M+xEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			1uD7EhplsWUczaPOzCv2yBZSL1RwSA4M1gg3w8MVihA=
+			+1h7j1t0y7VIYUQWPTkGR9p3hgfMliJ1FXP18XVyeuk=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CuKnx6erFVqn6Bb3/O1B/slSB2A=
+			/9EtcEGxvliJS6WqSyAMGN1TBwE=
 			</data>
 			<key>hash2</key>
 			<data>
-			X0Xj+FR91iFgNRnDa5mIeJ1FKubEiMGUJfnb2k6jH7I=
+			y5cXDuafZAHCK9CZXFBYYkEI7u+LZGwDEwlq24JR8ik=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/ar.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5495dvARBDHRoJEFnjCtA2T+XfE=
+			4eaGI9trJIGWCfn3lMhmKLrPyhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ogwb3G09qvCoBVP/UUl9Ugmmmuj5fUV9PfauudZpGtI=
+			dShjCXAjRpH2/6vYEw1GNWl6/8Pf/1ebKmv7jpBAur0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -812,11 +866,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X5yFOZVMrUiw9ZkDGXrEfenccSE=
+			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
 			</data>
 			<key>hash2</key>
 			<data>
-			JQEw0lrzw1OvTuga5hAmHVoZlrqRCnBlEiWa2AAgFqg=
+			L8LyBjl4+gCYiH2ob96UVE0pMi8bqKjivRlkyNWD4lM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -825,11 +879,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WPk+SoItn8E+9+y2Xo1qGJJtvKo=
+			58Npg7w8TY7shN7my/ywUxt/ARo=
 			</data>
 			<key>hash2</key>
 			<data>
-			+TGPo7+NsfS5uzyM9R+OIfzGhTeyUWv9RXiEBZ6idE8=
+			io08t+wX0Q05YM/MWVHq7DgwkYjLqx/6gB9Feumtngs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -838,11 +892,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WmON5jmb5xHdqPbkJEMmIgz41XU=
+			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
 			</data>
 			<key>hash2</key>
 			<data>
-			nTqli4eWwIj4ZGPQ1N1BiiONAQxlu5vLwdOiSut6yKE=
+			O/zE+6RbSukdeEf6YOuFSgVD+yhI2XVJTUdmqKoueSw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -851,11 +905,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvS/7hYjwSvgHoov8JXlkMnhvVE=
+			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
 			</data>
 			<key>hash2</key>
 			<data>
-			MJWFRLXALNXrT3xpzzdaJ+bpSieF9xK8q6ZDKk3T/9E=
+			A158r2IWMd1vgWVkKZsAFNZJxg+UCP+jOyMov42hyhs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -864,11 +918,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFAUkyfOMWv3gcZz1TR1ONyYTfw=
+			evCM/3g9lrqdARjHA7rEH8hEdjs=
 			</data>
 			<key>hash2</key>
 			<data>
-			+edIrtEfrVQjz0FVge+wY/CazjoLvzVpNMLWZQl3Ug8=
+			FP2Fbxn3a5/RZ/eoBqx9PNbYcqb/v9ikw8EcMBCIKsM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -877,11 +931,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nlgf5wSFwq51F04+haBszNZA/0o=
+			SyxuD58zcWd2cK25u6HOlxWnUIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			omEXmr+MrqmW318oHVAD3sMqjxVjHhgUXNFRDapTQcc=
+			nW5apDuJrMLzXQu9t9RR/AbTmo/BSoafp7zUsU3YMdg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -890,11 +944,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UwhQTqbLKFW6rPTbHKDx/kzJ9ME=
+			rhzNvMqLlBZxFoxa9ZBcYmlch30=
 			</data>
 			<key>hash2</key>
 			<data>
-			UspVuRNZQrnbtg23nKYxxTUP4oej5ASo/+/l6CJPd0Y=
+			CB6Qy5wRPAzcZIPiyyme15E3Y0SgLvumpF9EKQtuRpY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -903,11 +957,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vF6sV084YPkxTUb1NnRAWjk4ees=
+			AxrqixmnReya7x4HzVhH+XnJ+iQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			y4T/3JMpKV9sVGzJIJGTaeK4DYG+1F0zUnCmLjxR80s=
+			ZOamkKCCJhUlPZWpxwd54Wf9l1nuSIK6/F2ITlpunLY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -916,11 +970,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xzqhUPmTjVQv54pcqJCLhnIiaPM=
+			j7eK4DXWtr7srFumMxen2eX5TkM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ivlxIrgJsGNfc2zEq1D91WCb9UZ014t1/+vv/HYsx40=
+			bqiWFCLI1pNOXU3gf0wIjTFoX6TozQEG3mnyWXVq/MY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -929,11 +983,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cGjY6m4TquPd3grwFEis6rInxMY=
+			6dFl2OWKvGDXOQW6SZvpyRxspR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xDWXuncGKbzKGKF5GDXxoIy62AtifBhRLpR8PLJDEaI=
+			UC2i63NJi5WOGzkmXZaRR1qP11jVoFvtv6qyCkEUnlk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -953,11 +1007,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ikSXFPq3DgWtN+OKn+BbXPOYFcA=
+			Iik9TjhcuZ3yronDbVFhrUkDNRc=
 			</data>
 			<key>hash2</key>
 			<data>
-			1hq7h608uS6xrXnheLvAmQcphvG9O+CRY7DdYlNNkLA=
+			iKb3qTGlrwLyoWHwJXkgmYDgytEvFpQLvMuKfnUY/Fo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -966,11 +1020,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			odl/Q0y0LWMqOcvTHUpTHAtk7nA=
+			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			og8bK6e5YUBh0/CZXVgj3klvBY2eoao5r79gZ/eJq2c=
+			vneXsIUSdNVGIbFz+1BT12BvCw7NvM+FaiQmn7Tiupw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -979,11 +1033,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RYwllR7vDJFVxnbAs3l83+k+pn0=
+			pd7No7wzDyU/4ehShd/PIXHYxQw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yiw1Pi0Jga4u1zOXmSORiprxAm5yg/NBDY4f7EpHjGA=
+			HwLgI99tR9x5xiTJCg+dZZZqP1keIiRMyiM6te67tMQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1014,11 +1068,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5dJ5p46AMue2jHzTDiyBlrsNRP8=
+			WvKpn2sLPi9SwI9KV+pFWkLelIM=
 			</data>
 			<key>hash2</key>
 			<data>
-			vdGPPGdaiJkK8qW1JU/ej5HRXaUxL6VpZ3NmbctEyWI=
+			zJxBMa19gID3am+FbOWS7hC8QVncCsl5mZgmNwCpKmI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1027,11 +1081,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BR2SiixL4R5uLS4EJaUFQrYlpNY=
+			xvcxbmHj7ATa68mXJIYVjEMxQuw=
 			</data>
 			<key>hash2</key>
 			<data>
-			H8iyIhfcwpoD5csgpoECx4cAUURHfovhlTt4LNzq54o=
+			3kUIAPfK0iKCqh3UPmp3aqFWIDL/ZhVBTNXIAXrumrA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1040,22 +1094,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qckJM7vHaV62VsHkwiCFZAz/TnQ=
+			wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			DDqwBKUR1W3Q5jp1Qh7UIwDHrp7G5cO9B/FWJWK2m64=
+			1wbFVOYarJxeoWAhntvReUj3eju0dLpsm4Xz2T+PM7c=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			puMu67GOoZaW2GGyJm1HAxTLzNY=
+			j14MAF+acsCeRtTugubXq7SsLPA=
 			</data>
 			<key>hash2</key>
 			<data>
-			yjWump6NX9M3tuJVPK6DmYwMBz8t9dn34/n77eoBKf4=
+			DlWsmp6I0FRrOz6yVHn8S+23vY3s8Ko9Pz3Lq6Vegu4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1064,11 +1118,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			92msRAtJqlzBTgroA4uVIXoQmK8=
+			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
 			</data>
 			<key>hash2</key>
 			<data>
-			B8l3TQIP4rnAXDAY4L9k9jCfVCRns9yI+6flUbimsPo=
+			YMztNgl/h5BT9k2orUMnlAGdHHedBM6t0SvaKF7y2aU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1077,11 +1131,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D9J30JlusBLIENsMP0VS7YGp/ZE=
+			VAB8x7rCkBYnw2VLao0BL85zxWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			UKJseHwV/QB0f8dW5YiCCP+CiXmt+U0AX7zdvQIXxR4=
+			XToq3Se0w85ke14QXVHqp7gjsqlFlSHq6tESxgvqZVE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1090,36 +1144,36 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZyZGFzOaFwrXZ7bUEw/v4hlel68=
+			vd060FcqH8lvJ6cLkwtobvYaPko=
 			</data>
 			<key>hash2</key>
 			<data>
-			EM63hImZko1+EQ27Zn6Jr2kpy4jtKegdAQ0P+vOSSWc=
+			tmViHjEE/iSomIWH4nQtiDD3S/0Fnwcz91yrr8LPqCY=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/UAdFramework</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WwcxjlzPILFPr4rBQze+vMFoUXM=
+			/jsbr9ekcVfwPokAcjJu8VJ6XM4=
 			</data>
 			<key>hash2</key>
 			<data>
-			WUcoZ8liE+7KpJv0aeWdODCVZwmzsnIEl0P8WU78qlc=
+			2TTcCmXXHWbYYnOAe4azcuJ6GDSBQ+kWvX3mCJ7fnjk=
 			</data>
 		</dict>
-		<key>ios-arm64/UAdFramework.framework/UnityAds.bundle/Info.plist</key>
+		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zVtt7QH+vq2WIW8tMuUMHCctxN8=
+			gMMYRPEnhb4Fzt81RWS5Ncok8YM=
 			</data>
 			<key>hash2</key>
 			<data>
-			XWgC5S8XUsFyono9u5DD4q39cH9W3ujuQw9nWFtCXqs=
+			CeyDDvZIiNYmEKcmQGgnT2LV6gW0Rof3+cwR5TeVTzw=
 			</data>
 		</dict>
-		<key>ios-arm64/UAdFramework.framework/UnityAds.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1128,6 +1182,28 @@
 			<key>hash2</key>
 			<data>
 			f3FIPJmP/SZx3Vlg4pLmKnlyAbkHD2JKFo75koJnVG4=
+			</data>
+		</dict>
+		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CYrPj5o14ZkSV5tSn5grkOsAghM=
+			</data>
+			<key>hash2</key>
+			<data>
+			8V5c4BLIe9MsFdcdL9C5VLmy/Z1YGNgXs4IK89k9WjU=
+			</data>
+		</dict>
+		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xFoo41tIvFKNNRq9NwW500wQtM8=
+			</data>
+			<key>hash2</key>
+			<data>
+			iWz5BbK1YoGNpY4Z4ltSUIPxhjj2ubDXxq6kEamQdYU=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
@@ -1156,22 +1232,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q+Y8gf1+VYfG3RyQ4Upc9D/PU94=
+			bxweVA09pe/nJ0YystOKoma+yZs=
 			</data>
 			<key>hash2</key>
 			<data>
-			TjqE+PloMqZ9G5kYHOCFcUP3GKrEIewku35jRBA5pf0=
+			2tjEzwfX5F1QEEUI0ei6RRw4paykYtFTnNUklA8NFHY=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tBwXDLUwn+jMktQV+fsnTNJYvMw=
+			</data>
+			<key>hash2</key>
+			<data>
+			ahOL1GsbAteOBBSRC5ZWmoOyx8yUQ8JRNzxRq74XAvQ=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/9EtcEGxvliJS6WqSyAMGN1TBwE=
+			</data>
+			<key>hash2</key>
+			<data>
+			y5cXDuafZAHCK9CZXFBYYkEI7u+LZGwDEwlq24JR8ik=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L0O7DZZkJQ9AIs0fy27mI43rlwQ=
+			B71XncgUJZGP+4CuX7UdN3VsYLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			GPqW56T85MzonlifNFrWV13v6uvKEp8fCf17iwJqr1M=
+			p3RBqztBl8/e+coTFHR1FT8X90oqb1rE2z1Usyp0Cdc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1321,44 +1419,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P7xHMDHBSjRNbUXA62Yt6C8DzD4=
+			UrPpP43KLnPkbxMD0huS6fvsfjM=
 			</data>
 			<key>hash2</key>
 			<data>
-			YxqKhqfQ+Vpv5WtyfQdutGDG/PzGNcAn+LuV4oTDpMk=
+			s4F5CvmYgjTk7cegdPwLoDmSEPwY7fTWx3GQCVAZBEs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oivDmWZl0xFk7xFDiXfKXWRbraw=
+			nzDAcgidEA7JyHwXx4x/38M+xEk=
 			</data>
 			<key>hash2</key>
 			<data>
-			1uD7EhplsWUczaPOzCv2yBZSL1RwSA4M1gg3w8MVihA=
+			+1h7j1t0y7VIYUQWPTkGR9p3hgfMliJ1FXP18XVyeuk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CuKnx6erFVqn6Bb3/O1B/slSB2A=
+			/9EtcEGxvliJS6WqSyAMGN1TBwE=
 			</data>
 			<key>hash2</key>
 			<data>
-			X0Xj+FR91iFgNRnDa5mIeJ1FKubEiMGUJfnb2k6jH7I=
+			y5cXDuafZAHCK9CZXFBYYkEI7u+LZGwDEwlq24JR8ik=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/ar.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5495dvARBDHRoJEFnjCtA2T+XfE=
+			4eaGI9trJIGWCfn3lMhmKLrPyhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ogwb3G09qvCoBVP/UUl9Ugmmmuj5fUV9PfauudZpGtI=
+			dShjCXAjRpH2/6vYEw1GNWl6/8Pf/1ebKmv7jpBAur0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1422,11 +1520,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X5yFOZVMrUiw9ZkDGXrEfenccSE=
+			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
 			</data>
 			<key>hash2</key>
 			<data>
-			JQEw0lrzw1OvTuga5hAmHVoZlrqRCnBlEiWa2AAgFqg=
+			L8LyBjl4+gCYiH2ob96UVE0pMi8bqKjivRlkyNWD4lM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1435,11 +1533,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WPk+SoItn8E+9+y2Xo1qGJJtvKo=
+			58Npg7w8TY7shN7my/ywUxt/ARo=
 			</data>
 			<key>hash2</key>
 			<data>
-			+TGPo7+NsfS5uzyM9R+OIfzGhTeyUWv9RXiEBZ6idE8=
+			io08t+wX0Q05YM/MWVHq7DgwkYjLqx/6gB9Feumtngs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1448,11 +1546,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WmON5jmb5xHdqPbkJEMmIgz41XU=
+			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
 			</data>
 			<key>hash2</key>
 			<data>
-			nTqli4eWwIj4ZGPQ1N1BiiONAQxlu5vLwdOiSut6yKE=
+			O/zE+6RbSukdeEf6YOuFSgVD+yhI2XVJTUdmqKoueSw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1461,11 +1559,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvS/7hYjwSvgHoov8JXlkMnhvVE=
+			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
 			</data>
 			<key>hash2</key>
 			<data>
-			MJWFRLXALNXrT3xpzzdaJ+bpSieF9xK8q6ZDKk3T/9E=
+			A158r2IWMd1vgWVkKZsAFNZJxg+UCP+jOyMov42hyhs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1474,11 +1572,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFAUkyfOMWv3gcZz1TR1ONyYTfw=
+			evCM/3g9lrqdARjHA7rEH8hEdjs=
 			</data>
 			<key>hash2</key>
 			<data>
-			+edIrtEfrVQjz0FVge+wY/CazjoLvzVpNMLWZQl3Ug8=
+			FP2Fbxn3a5/RZ/eoBqx9PNbYcqb/v9ikw8EcMBCIKsM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1487,11 +1585,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nlgf5wSFwq51F04+haBszNZA/0o=
+			SyxuD58zcWd2cK25u6HOlxWnUIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			omEXmr+MrqmW318oHVAD3sMqjxVjHhgUXNFRDapTQcc=
+			nW5apDuJrMLzXQu9t9RR/AbTmo/BSoafp7zUsU3YMdg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1500,11 +1598,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UwhQTqbLKFW6rPTbHKDx/kzJ9ME=
+			rhzNvMqLlBZxFoxa9ZBcYmlch30=
 			</data>
 			<key>hash2</key>
 			<data>
-			UspVuRNZQrnbtg23nKYxxTUP4oej5ASo/+/l6CJPd0Y=
+			CB6Qy5wRPAzcZIPiyyme15E3Y0SgLvumpF9EKQtuRpY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1513,11 +1611,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vF6sV084YPkxTUb1NnRAWjk4ees=
+			AxrqixmnReya7x4HzVhH+XnJ+iQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			y4T/3JMpKV9sVGzJIJGTaeK4DYG+1F0zUnCmLjxR80s=
+			ZOamkKCCJhUlPZWpxwd54Wf9l1nuSIK6/F2ITlpunLY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1526,11 +1624,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xzqhUPmTjVQv54pcqJCLhnIiaPM=
+			j7eK4DXWtr7srFumMxen2eX5TkM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ivlxIrgJsGNfc2zEq1D91WCb9UZ014t1/+vv/HYsx40=
+			bqiWFCLI1pNOXU3gf0wIjTFoX6TozQEG3mnyWXVq/MY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1539,11 +1637,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cGjY6m4TquPd3grwFEis6rInxMY=
+			6dFl2OWKvGDXOQW6SZvpyRxspR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			xDWXuncGKbzKGKF5GDXxoIy62AtifBhRLpR8PLJDEaI=
+			UC2i63NJi5WOGzkmXZaRR1qP11jVoFvtv6qyCkEUnlk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1563,11 +1661,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ikSXFPq3DgWtN+OKn+BbXPOYFcA=
+			Iik9TjhcuZ3yronDbVFhrUkDNRc=
 			</data>
 			<key>hash2</key>
 			<data>
-			1hq7h608uS6xrXnheLvAmQcphvG9O+CRY7DdYlNNkLA=
+			iKb3qTGlrwLyoWHwJXkgmYDgytEvFpQLvMuKfnUY/Fo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1576,11 +1674,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			odl/Q0y0LWMqOcvTHUpTHAtk7nA=
+			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			og8bK6e5YUBh0/CZXVgj3klvBY2eoao5r79gZ/eJq2c=
+			vneXsIUSdNVGIbFz+1BT12BvCw7NvM+FaiQmn7Tiupw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1589,11 +1687,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RYwllR7vDJFVxnbAs3l83+k+pn0=
+			pd7No7wzDyU/4ehShd/PIXHYxQw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Yiw1Pi0Jga4u1zOXmSORiprxAm5yg/NBDY4f7EpHjGA=
+			HwLgI99tR9x5xiTJCg+dZZZqP1keIiRMyiM6te67tMQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1624,11 +1722,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5dJ5p46AMue2jHzTDiyBlrsNRP8=
+			WvKpn2sLPi9SwI9KV+pFWkLelIM=
 			</data>
 			<key>hash2</key>
 			<data>
-			vdGPPGdaiJkK8qW1JU/ej5HRXaUxL6VpZ3NmbctEyWI=
+			zJxBMa19gID3am+FbOWS7hC8QVncCsl5mZgmNwCpKmI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1637,11 +1735,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BR2SiixL4R5uLS4EJaUFQrYlpNY=
+			xvcxbmHj7ATa68mXJIYVjEMxQuw=
 			</data>
 			<key>hash2</key>
 			<data>
-			H8iyIhfcwpoD5csgpoECx4cAUURHfovhlTt4LNzq54o=
+			3kUIAPfK0iKCqh3UPmp3aqFWIDL/ZhVBTNXIAXrumrA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1650,22 +1748,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qckJM7vHaV62VsHkwiCFZAz/TnQ=
+			wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			DDqwBKUR1W3Q5jp1Qh7UIwDHrp7G5cO9B/FWJWK2m64=
+			1wbFVOYarJxeoWAhntvReUj3eju0dLpsm4Xz2T+PM7c=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			puMu67GOoZaW2GGyJm1HAxTLzNY=
+			j14MAF+acsCeRtTugubXq7SsLPA=
 			</data>
 			<key>hash2</key>
 			<data>
-			yjWump6NX9M3tuJVPK6DmYwMBz8t9dn34/n77eoBKf4=
+			DlWsmp6I0FRrOz6yVHn8S+23vY3s8Ko9Pz3Lq6Vegu4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1674,11 +1772,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			92msRAtJqlzBTgroA4uVIXoQmK8=
+			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
 			</data>
 			<key>hash2</key>
 			<data>
-			B8l3TQIP4rnAXDAY4L9k9jCfVCRns9yI+6flUbimsPo=
+			YMztNgl/h5BT9k2orUMnlAGdHHedBM6t0SvaKF7y2aU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1687,11 +1785,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D9J30JlusBLIENsMP0VS7YGp/ZE=
+			VAB8x7rCkBYnw2VLao0BL85zxWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			UKJseHwV/QB0f8dW5YiCCP+CiXmt+U0AX7zdvQIXxR4=
+			XToq3Se0w85ke14QXVHqp7gjsqlFlSHq6tESxgvqZVE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1700,36 +1798,36 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			T5vR9QNp963QP5JTprKvNjvvdmc=
+			vd060FcqH8lvJ6cLkwtobvYaPko=
 			</data>
 			<key>hash2</key>
 			<data>
-			qWnzVd4rlLYfx2KefcT2vp8iabV+eH4/zbDFI+khSzI=
+			tmViHjEE/iSomIWH4nQtiDD3S/0Fnwcz91yrr8LPqCY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UAdFramework</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3Cppc3KakdwmPySY6UF9bp/p+wA=
+			6SB7NkfFOMd/JWU/IatplCl6Bx4=
 			</data>
 			<key>hash2</key>
 			<data>
-			uts8hbvgdTZUY5z6iIpciIQ8b9ab7BFboXwwsdnwP/k=
+			HEroAOOv2ouClItpFvIdoFHRaf/UhCYYOyD0AW8l4OU=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAds.bundle/Info.plist</key>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zyjKmDr9cG4oOUozs+bT+wEQqYI=
+			B0cBxLSCW98vpj+cFPghejtzalg=
 			</data>
 			<key>hash2</key>
 			<data>
-			FNnJB0wRQvACzSoZAgMJ9DZgGQn8FhxpkFnsjMNuOsg=
+			bEn5pXBvnOzJMVS6iI8I75hZbnIxHcLDGO8ChcIRvdg=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAds.bundle/PrivacyInfo.xcprivacy</key>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1738,6 +1836,28 @@
 			<key>hash2</key>
 			<data>
 			f3FIPJmP/SZx3Vlg4pLmKnlyAbkHD2JKFo75koJnVG4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CYrPj5o14ZkSV5tSn5grkOsAghM=
+			</data>
+			<key>hash2</key>
+			<data>
+			8V5c4BLIe9MsFdcdL9C5VLmy/Z1YGNgXs4IK89k9WjU=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xFoo41tIvFKNNRq9NwW500wQtM8=
+			</data>
+			<key>hash2</key>
+			<data>
+			iWz5BbK1YoGNpY4Z4ltSUIPxhjj2ubDXxq6kEamQdYU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
@@ -1766,11 +1886,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			84iDQaDaM6O0rrN8PI7qt/eGQ2k=
+			lhV2AvMhvmXEgUlG+5qQ7WQ/UsY=
 			</data>
 			<key>hash2</key>
 			<data>
-			RsRJ40hnmMl6ry6X6uZhKW8uitLFodMeuDs0CrAhdas=
+			V0q77WxiXlvV4pybSiHd6sz1k55yPuE9rQ1mK0YpL7I=
 			</data>
 		</dict>
 	</dict>
