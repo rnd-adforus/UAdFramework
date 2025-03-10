@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
-		j4BXeJiElfTFYxCOi95Dpt9GgQU=
+		A65+n1GUH4pTfuamwM4Gy5zptWo=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		wscnr7BaAbAJyYA6n9A26vlTWB4=
+		NHS3zqEZW/jeJihdffTt2ALazOs=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Headers/UAdFramework-Swift.h</key>
 		<data>
-		jrehkw6g4L4oGIBhaY4MR7lAozU=
+		PK1opkD4a0695WPHTRhG+UYNcBo=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Headers/UAdFramework.h</key>
 		<data>
@@ -30,23 +30,23 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Info.plist</key>
 		<data>
-		oJXQ138N4gIc19pdYKBFI9psMYM=
+		G0UXyBJwlBJFqHES1LUoInvImRQ=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		eqQabc6EhktlY4BtqeXMdo8GkvY=
+		dTNYuyxjvvleBl4n1Jz7XVWHqws=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		wKR+xrA6UC/TnuEpZBgejZEFLGE=
+		DRG9oVwVjFb9ZronwwpJKK/Bqvg=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		0G0cW+kZKpUAnQEQUgSXz6zAggM=
+		s4iRgZNUxXfW52BZt2FzRAkojuY=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		wKR+xrA6UC/TnuEpZBgejZEFLGE=
+		DRG9oVwVjFb9ZronwwpJKK/Bqvg=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/module.modulemap</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/Assets.car</key>
 		<data>
-		UrPpP43KLnPkbxMD0huS6fvsfjM=
+		Ba48WK7hTZ0gO2uLBGUuWYx97Zg=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/Info.plist</key>
 		<data>
-		nzDAcgidEA7JyHwXx4x/38M+xEk=
+		INlWdSUXSG5fxbFURBiuOUt3bME=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -68,26 +68,18 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4eaGI9trJIGWCfn3lMhmKLrPyhU=
+			1cjBezsrbkZz1BaVvT4VrWqFb3M=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/biz.json</key>
 		<data>
-		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+		rcg7GeeTSRscbqD9i0bNnzLlkvw=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<data>
-		oQBpequa6EP2bIV0oeaKF3vtf4c=
-		</data>
-		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/bu_logo@2x.data</key>
-		<data>
-		+mtwru9JejoXxD0IZqBa0U0UawM=
-		</data>
-		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/bu_logo@3x.data</key>
-		<data>
-		W2jGO8ru7N6WDPaAizhoT5zVVF4=
+		OZqGLg4/MuIGA5RkQLl85TCwE4o=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/bu_slienceAudio.aiff</key>
 		<data>
@@ -97,7 +89,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
+			vWP0tyWFPesghuFzvTi84W+DR7Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -106,7 +98,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			58Npg7w8TY7shN7my/ywUxt/ARo=
+			I/YOJMwnEvW+fLvZXEqCeiunXaY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -115,7 +107,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
+			8Lhv29FmccaKcj8bi5Gh25aCJ+k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -124,7 +116,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
+			+whNsaqT/k3/eG1CatZrZy4HO0I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -142,7 +134,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SyxuD58zcWd2cK25u6HOlxWnUIQ=
+			NvWc7B7n48Ah5fZk1r7A2fLgGVI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -151,7 +143,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rhzNvMqLlBZxFoxa9ZBcYmlch30=
+			lba9De5NBlWa2G+w3GokkItPQBE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -160,7 +152,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AxrqixmnReya7x4HzVhH+XnJ+iQ=
+			70Gym7bSvbVo6AJl/d+JbLhGJ5A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -169,7 +161,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j7eK4DXWtr7srFumMxen2eX5TkM=
+			OfnxOVDEI97cIIEva8ElQNc9bU0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -178,7 +170,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6dFl2OWKvGDXOQW6SZvpyRxspR8=
+			7GtXqdQ8EU823hNd/UZSviX30MM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -191,7 +183,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Iik9TjhcuZ3yronDbVFhrUkDNRc=
+			9ApJC7JWAmPT10a6ZJu6Reeut4I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -200,7 +192,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
+			kyzDgYTKX3v3Lvxkb7pvQsCVWZg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -209,7 +201,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pd7No7wzDyU/4ehShd/PIXHYxQw=
+			qBEUCp4s69vNYIJLHwcTYOHVyHU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -220,13 +212,13 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/template.json</key>
 		<data>
-		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+		rcg7GeeTSRscbqD9i0bNnzLlkvw=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WvKpn2sLPi9SwI9KV+pFWkLelIM=
+			ycyRpj+Dg2VTBMtI66foGlRCJ9U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -235,20 +227,20 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvcxbmHj7ATa68mXJIYVjEMxQuw=
+			W37CPidBpy3Nq3VrLUpCrBZ+rfs=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/version.txt</key>
 		<data>
-		wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
+		7giI8woOhzPbjCp80KM3sU/UREk=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j14MAF+acsCeRtTugubXq7SsLPA=
+			PgbL7jqsoMQF8OcS1wIGEe9PHnE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -257,7 +249,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
+			MS3LHiFloA9WeIYBme0Sy20vz+4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -277,11 +269,11 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UAdFramework</key>
 		<data>
-		/jsbr9ekcVfwPokAcjJu8VJ6XM4=
+		QVlurdLPxrnrrIoU4KYdanPxf9M=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<data>
-		gMMYRPEnhb4Fzt81RWS5Ncok8YM=
+		oyamsh8t6uMUJFpW37qMSKd28OY=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -289,15 +281,15 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
 		<data>
-		CYrPj5o14ZkSV5tSn5grkOsAghM=
+		pZgJtaS87VxkBCvY16zwaqmAaCE=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
 		<data>
-		xFoo41tIvFKNNRq9NwW500wQtM8=
+		6+hfCdXnixKm+657WUiXeprAN1c=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		KNdfTHUJEvchVZNKqyOLQ3ZtvpI=
+		y7iwTjKm2nXBsoYitDsQEvITfUo=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -305,11 +297,11 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		bxweVA09pe/nJ0YystOKoma+yZs=
+		I0EWDEWSSoZMHPOxDJSzhIWA/pc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
-		tBwXDLUwn+jMktQV+fsnTNJYvMw=
+		fNWSQ4y+facm2G+6nO2XtRStyjU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -317,7 +309,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		B71XncgUJZGP+4CuX7UdN3VsYLI=
+		xFLaHS3BEP708E7Sy6abxnVm1AQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -325,7 +317,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Headers/UAdFramework-Swift.h</key>
 		<data>
-		+NsmjbhdbRrQCgcNQnvnE/a8IKI=
+		Zh37XZ1rLwXw6nqLRN03l5JtAF4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Headers/UAdFramework.h</key>
 		<data>
@@ -333,39 +325,39 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Info.plist</key>
 		<data>
-		abMUAApzOdiBJo//g9b3Hre2Aas=
+		y7wt7DVZU9s9+QVnRimErdQx5dM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		eqQabc6EhktlY4BtqeXMdo8GkvY=
+		dTNYuyxjvvleBl4n1Jz7XVWHqws=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		bLimC0m8FmjCgZME1vqEtqMsz88=
+		5zj6pRLbu1jWATbL8ZxjTWkAuOM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		K6+Nnd1llfM6kX2gyPWa+6jWI00=
+		S20jEpuhjiR3l6YTosvGG8rvlTo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bLimC0m8FmjCgZME1vqEtqMsz88=
+		5zj6pRLbu1jWATbL8ZxjTWkAuOM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		eqQabc6EhktlY4BtqeXMdo8GkvY=
+		dTNYuyxjvvleBl4n1Jz7XVWHqws=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		N8InDkvbGYmPoibiurmgBEvLO1Y=
+		PHpl4Ved3ye9+ll7ItcdE5yhuCA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		r+rT4L/BFnW1faeNZpOqb1EacL8=
+		t+R6WiOKwjJ9OWL998sYerOMTXo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		N8InDkvbGYmPoibiurmgBEvLO1Y=
+		PHpl4Ved3ye9+ll7ItcdE5yhuCA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/module.modulemap</key>
 		<data>
@@ -373,11 +365,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/Assets.car</key>
 		<data>
-		UrPpP43KLnPkbxMD0huS6fvsfjM=
+		Ba48WK7hTZ0gO2uLBGUuWYx97Zg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/Info.plist</key>
 		<data>
-		nzDAcgidEA7JyHwXx4x/38M+xEk=
+		INlWdSUXSG5fxbFURBiuOUt3bME=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -387,26 +379,18 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4eaGI9trJIGWCfn3lMhmKLrPyhU=
+			1cjBezsrbkZz1BaVvT4VrWqFb3M=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/biz.json</key>
 		<data>
-		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+		rcg7GeeTSRscbqD9i0bNnzLlkvw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<data>
-		oQBpequa6EP2bIV0oeaKF3vtf4c=
-		</data>
-		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/bu_logo@2x.data</key>
-		<data>
-		+mtwru9JejoXxD0IZqBa0U0UawM=
-		</data>
-		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/bu_logo@3x.data</key>
-		<data>
-		W2jGO8ru7N6WDPaAizhoT5zVVF4=
+		OZqGLg4/MuIGA5RkQLl85TCwE4o=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/bu_slienceAudio.aiff</key>
 		<data>
@@ -416,7 +400,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
+			vWP0tyWFPesghuFzvTi84W+DR7Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -425,7 +409,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			58Npg7w8TY7shN7my/ywUxt/ARo=
+			I/YOJMwnEvW+fLvZXEqCeiunXaY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -434,7 +418,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
+			8Lhv29FmccaKcj8bi5Gh25aCJ+k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -443,7 +427,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
+			+whNsaqT/k3/eG1CatZrZy4HO0I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -461,7 +445,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SyxuD58zcWd2cK25u6HOlxWnUIQ=
+			NvWc7B7n48Ah5fZk1r7A2fLgGVI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -470,7 +454,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rhzNvMqLlBZxFoxa9ZBcYmlch30=
+			lba9De5NBlWa2G+w3GokkItPQBE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -479,7 +463,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AxrqixmnReya7x4HzVhH+XnJ+iQ=
+			70Gym7bSvbVo6AJl/d+JbLhGJ5A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -488,7 +472,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j7eK4DXWtr7srFumMxen2eX5TkM=
+			OfnxOVDEI97cIIEva8ElQNc9bU0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -497,7 +481,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6dFl2OWKvGDXOQW6SZvpyRxspR8=
+			7GtXqdQ8EU823hNd/UZSviX30MM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -510,7 +494,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Iik9TjhcuZ3yronDbVFhrUkDNRc=
+			9ApJC7JWAmPT10a6ZJu6Reeut4I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -519,7 +503,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
+			kyzDgYTKX3v3Lvxkb7pvQsCVWZg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -528,7 +512,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pd7No7wzDyU/4ehShd/PIXHYxQw=
+			qBEUCp4s69vNYIJLHwcTYOHVyHU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -539,13 +523,13 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/template.json</key>
 		<data>
-		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+		rcg7GeeTSRscbqD9i0bNnzLlkvw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WvKpn2sLPi9SwI9KV+pFWkLelIM=
+			ycyRpj+Dg2VTBMtI66foGlRCJ9U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -554,20 +538,20 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvcxbmHj7ATa68mXJIYVjEMxQuw=
+			W37CPidBpy3Nq3VrLUpCrBZ+rfs=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/version.txt</key>
 		<data>
-		wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
+		7giI8woOhzPbjCp80KM3sU/UREk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j14MAF+acsCeRtTugubXq7SsLPA=
+			PgbL7jqsoMQF8OcS1wIGEe9PHnE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -576,7 +560,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
+			MS3LHiFloA9WeIYBme0Sy20vz+4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -596,11 +580,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UAdFramework</key>
 		<data>
-		6SB7NkfFOMd/JWU/IatplCl6Bx4=
+		2hURGi1p7Et8IYcsxZN3kVCg+Oo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<data>
-		B0cBxLSCW98vpj+cFPghejtzalg=
+		ZPJ9dRXWAMw+u9iXUZkJYK9bdG0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -608,15 +592,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
 		<data>
-		CYrPj5o14ZkSV5tSn5grkOsAghM=
+		pZgJtaS87VxkBCvY16zwaqmAaCE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
 		<data>
-		xFoo41tIvFKNNRq9NwW500wQtM8=
+		6+hfCdXnixKm+657WUiXeprAN1c=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		tlJbdVbnzyI7WhIS/NlLTOcayII=
+		ybuJtSvR+Hb9lfX7ARQ0Mbr8o8E=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -624,7 +608,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		lhV2AvMhvmXEgUlG+5qQ7WQ/UsY=
+		AtoOgd/2wiE1fCn/kSM7Sov0WMQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -633,11 +617,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j4BXeJiElfTFYxCOi95Dpt9GgQU=
+			A65+n1GUH4pTfuamwM4Gy5zptWo=
 			</data>
 			<key>hash2</key>
 			<data>
-			UvPgb73HLngFgrUTX/mQO1DlCyoQMVo9n9Mb4s5ZbVE=
+			uYPjdeutLvC9Y9fTHvUKb0YIqqtNCfxyM4Y4UOeBFvg=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
@@ -655,11 +639,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wscnr7BaAbAJyYA6n9A26vlTWB4=
+			NHS3zqEZW/jeJihdffTt2ALazOs=
 			</data>
 			<key>hash2</key>
 			<data>
-			V/+hPCwF2bXspwxMAi30Arve08mdrIIokrSoaZqey9s=
+			xhlUDC5XNfS6orZfxjbUR7i4HUsvsbXL7ezcCQZ74Os=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -677,11 +661,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jrehkw6g4L4oGIBhaY4MR7lAozU=
+			PK1opkD4a0695WPHTRhG+UYNcBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			vkwoFKoHE2MdEaAKDYjVOXEQMpFfheMQBSxEp6YgkWc=
+			GexPtFc0FJXcFjCy2TODb9yjgTw4MuhfYaJOGUU8uhM=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/Headers/UAdFramework.h</key>
@@ -699,55 +683,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oJXQ138N4gIc19pdYKBFI9psMYM=
+			G0UXyBJwlBJFqHES1LUoInvImRQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			iXi8t7SBdhixSw6bw9vEqO3d+VHUuxSxjms4GGIE76U=
+			rJv4814MAePOeZo4N9iaYDfmxdg7HtDl3SBf3j4iNhE=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eqQabc6EhktlY4BtqeXMdo8GkvY=
+			dTNYuyxjvvleBl4n1Jz7XVWHqws=
 			</data>
 			<key>hash2</key>
 			<data>
-			MMDRAZhe/UgtgKg54/QRFstZCaVJ/kv74yNoVVdX4Co=
+			cbeewhfiVaCaSsxoCmrHaCZiNHsRnWZu7of1U2bmUlY=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wKR+xrA6UC/TnuEpZBgejZEFLGE=
+			DRG9oVwVjFb9ZronwwpJKK/Bqvg=
 			</data>
 			<key>hash2</key>
 			<data>
-			nbQsE8cGFCZ1ErZ6Aa+w303dxweXPkyWBncsSGDuNeY=
+			n66yBz2X46ObhSjECw1DZA5NzyJFoPvK3+e/wim6iKs=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0G0cW+kZKpUAnQEQUgSXz6zAggM=
+			s4iRgZNUxXfW52BZt2FzRAkojuY=
 			</data>
 			<key>hash2</key>
 			<data>
-			0USJUjP6c8FaG3dZRKJxxWkLRQ3nSmiDzvfOoEeDPPQ=
+			HPlXFSxt5nLj7epLlPI+1kLA6ZOVwdrcW2uJCBh0u50=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wKR+xrA6UC/TnuEpZBgejZEFLGE=
+			DRG9oVwVjFb9ZronwwpJKK/Bqvg=
 			</data>
 			<key>hash2</key>
 			<data>
-			nbQsE8cGFCZ1ErZ6Aa+w303dxweXPkyWBncsSGDuNeY=
+			n66yBz2X46ObhSjECw1DZA5NzyJFoPvK3+e/wim6iKs=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/Modules/module.modulemap</key>
@@ -765,22 +749,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UrPpP43KLnPkbxMD0huS6fvsfjM=
+			Ba48WK7hTZ0gO2uLBGUuWYx97Zg=
 			</data>
 			<key>hash2</key>
 			<data>
-			s4F5CvmYgjTk7cegdPwLoDmSEPwY7fTWx3GQCVAZBEs=
+			o1vn3O/1+TcmSu1gzxcNtRNRmmVebfc1+wfcLMKUW0Q=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nzDAcgidEA7JyHwXx4x/38M+xEk=
+			INlWdSUXSG5fxbFURBiuOUt3bME=
 			</data>
 			<key>hash2</key>
 			<data>
-			+1h7j1t0y7VIYUQWPTkGR9p3hgfMliJ1FXP18XVyeuk=
+			plb02raqivpPGlY172r+XgYZAbJHC7p7Y+EqyGA+mPk=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
@@ -798,11 +782,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4eaGI9trJIGWCfn3lMhmKLrPyhU=
+			1cjBezsrbkZz1BaVvT4VrWqFb3M=
 			</data>
 			<key>hash2</key>
 			<data>
-			dShjCXAjRpH2/6vYEw1GNWl6/8Pf/1ebKmv7jpBAur0=
+			MovjRcgJobS8yZjaKgJnvOSnhGX0k4cGNC3nLMBeUtA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -811,44 +795,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+			rcg7GeeTSRscbqD9i0bNnzLlkvw=
 			</data>
 			<key>hash2</key>
 			<data>
-			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
+			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oQBpequa6EP2bIV0oeaKF3vtf4c=
+			OZqGLg4/MuIGA5RkQLl85TCwE4o=
 			</data>
 			<key>hash2</key>
 			<data>
-			G0MNs8gvhZqWd3c3/MV4p/phSAD7VvXr15bPxMhq1aA=
-			</data>
-		</dict>
-		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/bu_logo@2x.data</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+mtwru9JejoXxD0IZqBa0U0UawM=
-			</data>
-			<key>hash2</key>
-			<data>
-			FcLQwj/fRQoBHL9SO/VdQ6fCdWj6lBxjAoP8HbOaaOM=
-			</data>
-		</dict>
-		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/bu_logo@3x.data</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W2jGO8ru7N6WDPaAizhoT5zVVF4=
-			</data>
-			<key>hash2</key>
-			<data>
-			ga6+snmS16+p0gfOTOTeZfA8E5NRQEMICArPOz0Rihc=
+			TmuU6Lx6rDy1EbkpumDP23Np4MGvwLCGP5mTbh8BwDU=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/bu_slienceAudio.aiff</key>
@@ -866,11 +828,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
+			vWP0tyWFPesghuFzvTi84W+DR7Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			L8LyBjl4+gCYiH2ob96UVE0pMi8bqKjivRlkyNWD4lM=
+			Fn5XWK57VD+BOXL/cllLM5uZr+dESqPyXX9ZiY/m6+U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -879,11 +841,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			58Npg7w8TY7shN7my/ywUxt/ARo=
+			I/YOJMwnEvW+fLvZXEqCeiunXaY=
 			</data>
 			<key>hash2</key>
 			<data>
-			io08t+wX0Q05YM/MWVHq7DgwkYjLqx/6gB9Feumtngs=
+			65iXqQEuAJtzFZ7jgie8UzQbx59ZFe3Vo8BBCsXbZJo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -892,11 +854,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
+			8Lhv29FmccaKcj8bi5Gh25aCJ+k=
 			</data>
 			<key>hash2</key>
 			<data>
-			O/zE+6RbSukdeEf6YOuFSgVD+yhI2XVJTUdmqKoueSw=
+			Ng5pqZq6b7YiIKg9AEwY19nBsfq36z65SytbVCgcb10=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -905,11 +867,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
+			+whNsaqT/k3/eG1CatZrZy4HO0I=
 			</data>
 			<key>hash2</key>
 			<data>
-			A158r2IWMd1vgWVkKZsAFNZJxg+UCP+jOyMov42hyhs=
+			qQ2EAEd5kdbAGzYYLMbODuecYqGxXSq9to/OQKu/P88=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -931,11 +893,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SyxuD58zcWd2cK25u6HOlxWnUIQ=
+			NvWc7B7n48Ah5fZk1r7A2fLgGVI=
 			</data>
 			<key>hash2</key>
 			<data>
-			nW5apDuJrMLzXQu9t9RR/AbTmo/BSoafp7zUsU3YMdg=
+			IEiHItAZh/dhvDyP1oS+ZFh2zQmSGqe/TkYGbbrJ8uY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -944,11 +906,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rhzNvMqLlBZxFoxa9ZBcYmlch30=
+			lba9De5NBlWa2G+w3GokkItPQBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			CB6Qy5wRPAzcZIPiyyme15E3Y0SgLvumpF9EKQtuRpY=
+			otKFz3LjT7q8zDRvEA2kMQsMCGI9S4B8Ku8EwSX7ZLM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -957,11 +919,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AxrqixmnReya7x4HzVhH+XnJ+iQ=
+			70Gym7bSvbVo6AJl/d+JbLhGJ5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZOamkKCCJhUlPZWpxwd54Wf9l1nuSIK6/F2ITlpunLY=
+			gsQWDOOsVdV84uLcTRgAFklOu0HzTMgzP2kvP2ItEQI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -970,11 +932,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j7eK4DXWtr7srFumMxen2eX5TkM=
+			OfnxOVDEI97cIIEva8ElQNc9bU0=
 			</data>
 			<key>hash2</key>
 			<data>
-			bqiWFCLI1pNOXU3gf0wIjTFoX6TozQEG3mnyWXVq/MY=
+			6nGqTPQ232MLtKMoq3ljTPE7vdDMPl3f+oXeBcoIFTI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -983,11 +945,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6dFl2OWKvGDXOQW6SZvpyRxspR8=
+			7GtXqdQ8EU823hNd/UZSviX30MM=
 			</data>
 			<key>hash2</key>
 			<data>
-			UC2i63NJi5WOGzkmXZaRR1qP11jVoFvtv6qyCkEUnlk=
+			D1YhLh9vwk/ejwmaVezE+zb7cfWIlv00vNzTlDaKn1E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1007,11 +969,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Iik9TjhcuZ3yronDbVFhrUkDNRc=
+			9ApJC7JWAmPT10a6ZJu6Reeut4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			iKb3qTGlrwLyoWHwJXkgmYDgytEvFpQLvMuKfnUY/Fo=
+			bvl4VRPC6v0AjdxuFIJIfCvJQ626BvfR5m8l/AVRyQQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1020,11 +982,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
+			kyzDgYTKX3v3Lvxkb7pvQsCVWZg=
 			</data>
 			<key>hash2</key>
 			<data>
-			vneXsIUSdNVGIbFz+1BT12BvCw7NvM+FaiQmn7Tiupw=
+			DnidKGWskLXcXMLHLZbz2M+HOm8rM9uZXlwt0b5lCGk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1033,11 +995,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pd7No7wzDyU/4ehShd/PIXHYxQw=
+			qBEUCp4s69vNYIJLHwcTYOHVyHU=
 			</data>
 			<key>hash2</key>
 			<data>
-			HwLgI99tR9x5xiTJCg+dZZZqP1keIiRMyiM6te67tMQ=
+			GEAlV53O+hCz4pjMU+IG6uMQEY4e0nIdBsNIZbX87/o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1057,22 +1019,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+			rcg7GeeTSRscbqD9i0bNnzLlkvw=
 			</data>
 			<key>hash2</key>
 			<data>
-			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
+			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WvKpn2sLPi9SwI9KV+pFWkLelIM=
+			ycyRpj+Dg2VTBMtI66foGlRCJ9U=
 			</data>
 			<key>hash2</key>
 			<data>
-			zJxBMa19gID3am+FbOWS7hC8QVncCsl5mZgmNwCpKmI=
+			3tjFpP3lkOmFqM7D6xv1SoJcRBiEnoF09jMa6ny5mzg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1081,11 +1043,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvcxbmHj7ATa68mXJIYVjEMxQuw=
+			W37CPidBpy3Nq3VrLUpCrBZ+rfs=
 			</data>
 			<key>hash2</key>
 			<data>
-			3kUIAPfK0iKCqh3UPmp3aqFWIDL/ZhVBTNXIAXrumrA=
+			Jd9kb3glzKBbTYqPnHRNFL1cgQZVo33VUpFei7qrXlU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1094,22 +1056,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
+			7giI8woOhzPbjCp80KM3sU/UREk=
 			</data>
 			<key>hash2</key>
 			<data>
-			1wbFVOYarJxeoWAhntvReUj3eju0dLpsm4Xz2T+PM7c=
+			8QpBT6wYxZHx4pEHg7xx+j/elIG+ihkVIhKIDKsvas0=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j14MAF+acsCeRtTugubXq7SsLPA=
+			PgbL7jqsoMQF8OcS1wIGEe9PHnE=
 			</data>
 			<key>hash2</key>
 			<data>
-			DlWsmp6I0FRrOz6yVHn8S+23vY3s8Ko9Pz3Lq6Vegu4=
+			b0mhNJj9KTpeVtm0oakhg0ic9jqQod0WwpY4UeImgYA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1118,11 +1080,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
+			MS3LHiFloA9WeIYBme0Sy20vz+4=
 			</data>
 			<key>hash2</key>
 			<data>
-			YMztNgl/h5BT9k2orUMnlAGdHHedBM6t0SvaKF7y2aU=
+			nS/CueG2X7uWcbOVfFXNwbC/qJhXRGQsMdH/pCGh5H4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1155,22 +1117,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/jsbr9ekcVfwPokAcjJu8VJ6XM4=
+			QVlurdLPxrnrrIoU4KYdanPxf9M=
 			</data>
 			<key>hash2</key>
 			<data>
-			2TTcCmXXHWbYYnOAe4azcuJ6GDSBQ+kWvX3mCJ7fnjk=
+			a90h1a8C7IPw7rzAm3ctmO1mNcAF6DIL2RWKUH02WMk=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gMMYRPEnhb4Fzt81RWS5Ncok8YM=
+			oyamsh8t6uMUJFpW37qMSKd28OY=
 			</data>
 			<key>hash2</key>
 			<data>
-			CeyDDvZIiNYmEKcmQGgnT2LV6gW0Rof3+cwR5TeVTzw=
+			KGPFdfr9WAeJkvOMLPtus95wUM/TL4uLsTFBxyFuTtE=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1188,33 +1150,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CYrPj5o14ZkSV5tSn5grkOsAghM=
+			pZgJtaS87VxkBCvY16zwaqmAaCE=
 			</data>
 			<key>hash2</key>
 			<data>
-			8V5c4BLIe9MsFdcdL9C5VLmy/Z1YGNgXs4IK89k9WjU=
+			3cu4uVpH9IsN23j4j7+Dke1P9ExWiWRGUeVPWGkOVUk=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xFoo41tIvFKNNRq9NwW500wQtM8=
+			6+hfCdXnixKm+657WUiXeprAN1c=
 			</data>
 			<key>hash2</key>
 			<data>
-			iWz5BbK1YoGNpY4Z4ltSUIPxhjj2ubDXxq6kEamQdYU=
+			wdHo+ZxIr5eFSs8kgj8Q2jorPZzSti3/PJO59hk3RRw=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KNdfTHUJEvchVZNKqyOLQ3ZtvpI=
+			y7iwTjKm2nXBsoYitDsQEvITfUo=
 			</data>
 			<key>hash2</key>
 			<data>
-			APPY8ErBSm3noJIlpCVJy0UxRmOSONIPgYjH+5Q916M=
+			WMk8fDquHO1Krvm2WZyIN+qcbObSCanx0ox3zN1VqaY=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1232,22 +1194,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bxweVA09pe/nJ0YystOKoma+yZs=
+			I0EWDEWSSoZMHPOxDJSzhIWA/pc=
 			</data>
 			<key>hash2</key>
 			<data>
-			2tjEzwfX5F1QEEUI0ei6RRw4paykYtFTnNUklA8NFHY=
+			xE+wzOLAIkLxU/v5F95vwcLBjHa7XggkfbnvQSQ7Lf4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tBwXDLUwn+jMktQV+fsnTNJYvMw=
+			fNWSQ4y+facm2G+6nO2XtRStyjU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ahOL1GsbAteOBBSRC5ZWmoOyx8yUQ8JRNzxRq74XAvQ=
+			A/2aqD4rpqkAPM46zXevWYYcOlbmTphY/9mc2WAaRZM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/PrivacyInfo.xcprivacy</key>
@@ -1265,11 +1227,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B71XncgUJZGP+4CuX7UdN3VsYLI=
+			xFLaHS3BEP708E7Sy6abxnVm1AQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			p3RBqztBl8/e+coTFHR1FT8X90oqb1rE2z1Usyp0Cdc=
+			/w3SmiQKW1Y155c8K/Or1kHUa7+wthx8pQimsFBOb1E=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1287,11 +1249,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+NsmjbhdbRrQCgcNQnvnE/a8IKI=
+			Zh37XZ1rLwXw6nqLRN03l5JtAF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			OM2jNYfkWMsb60Mb20Y9UVrESTCQcJJCizEovzi1W1Y=
+			BcazBjWavY6yeKRz0Bz6bhn60yggRanJfgS+kmkKD/0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Headers/UAdFramework.h</key>
@@ -1309,99 +1271,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			abMUAApzOdiBJo//g9b3Hre2Aas=
+			y7wt7DVZU9s9+QVnRimErdQx5dM=
 			</data>
 			<key>hash2</key>
 			<data>
-			du6a4cTExMtx97U/ZOEyigDS0zVunYukL5eU8eVWZ7s=
+			5jUVtEpswVjPVDwoRx5A3G78IX165nZTITp3ssRm8tQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eqQabc6EhktlY4BtqeXMdo8GkvY=
+			dTNYuyxjvvleBl4n1Jz7XVWHqws=
 			</data>
 			<key>hash2</key>
 			<data>
-			MMDRAZhe/UgtgKg54/QRFstZCaVJ/kv74yNoVVdX4Co=
+			cbeewhfiVaCaSsxoCmrHaCZiNHsRnWZu7of1U2bmUlY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bLimC0m8FmjCgZME1vqEtqMsz88=
+			5zj6pRLbu1jWATbL8ZxjTWkAuOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			2EDNWPr7DaPuBPTvUUgRMASGhBuhH+Lc2/gJw5OUExU=
+			jw0lOVLK1BZCGRJPR61L/ocLEcPFi+FJv/4GFKt5x60=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			K6+Nnd1llfM6kX2gyPWa+6jWI00=
+			S20jEpuhjiR3l6YTosvGG8rvlTo=
 			</data>
 			<key>hash2</key>
 			<data>
-			2DXitfUS2doUDk5eemPcnQ/VVzh4MHKA7iDdGOm+tYA=
+			xuetbbjWsZWxnagIwFB3/CehB3fyEtNqdEhdL8xOolU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bLimC0m8FmjCgZME1vqEtqMsz88=
+			5zj6pRLbu1jWATbL8ZxjTWkAuOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			2EDNWPr7DaPuBPTvUUgRMASGhBuhH+Lc2/gJw5OUExU=
+			jw0lOVLK1BZCGRJPR61L/ocLEcPFi+FJv/4GFKt5x60=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eqQabc6EhktlY4BtqeXMdo8GkvY=
+			dTNYuyxjvvleBl4n1Jz7XVWHqws=
 			</data>
 			<key>hash2</key>
 			<data>
-			MMDRAZhe/UgtgKg54/QRFstZCaVJ/kv74yNoVVdX4Co=
+			cbeewhfiVaCaSsxoCmrHaCZiNHsRnWZu7of1U2bmUlY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N8InDkvbGYmPoibiurmgBEvLO1Y=
+			PHpl4Ved3ye9+ll7ItcdE5yhuCA=
 			</data>
 			<key>hash2</key>
 			<data>
-			pjitapQirfkRwnPPhK+ysHhhb9GibKUlSrxQhymFA1E=
+			JliDsBCsPSk7vb3dL2cvRCPryNf62osVvAtDiTlbr3s=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r+rT4L/BFnW1faeNZpOqb1EacL8=
+			t+R6WiOKwjJ9OWL998sYerOMTXo=
 			</data>
 			<key>hash2</key>
 			<data>
-			4dc+pedqESlkMgmpGYnD/y0QBcVfkJj/0BQrcpXhaqg=
+			0npWh0oMkBhukEinVAXzjxDPK184gxUxfcmilYafDts=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N8InDkvbGYmPoibiurmgBEvLO1Y=
+			PHpl4Ved3ye9+ll7ItcdE5yhuCA=
 			</data>
 			<key>hash2</key>
 			<data>
-			pjitapQirfkRwnPPhK+ysHhhb9GibKUlSrxQhymFA1E=
+			JliDsBCsPSk7vb3dL2cvRCPryNf62osVvAtDiTlbr3s=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/module.modulemap</key>
@@ -1419,22 +1381,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UrPpP43KLnPkbxMD0huS6fvsfjM=
+			Ba48WK7hTZ0gO2uLBGUuWYx97Zg=
 			</data>
 			<key>hash2</key>
 			<data>
-			s4F5CvmYgjTk7cegdPwLoDmSEPwY7fTWx3GQCVAZBEs=
+			o1vn3O/1+TcmSu1gzxcNtRNRmmVebfc1+wfcLMKUW0Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nzDAcgidEA7JyHwXx4x/38M+xEk=
+			INlWdSUXSG5fxbFURBiuOUt3bME=
 			</data>
 			<key>hash2</key>
 			<data>
-			+1h7j1t0y7VIYUQWPTkGR9p3hgfMliJ1FXP18XVyeuk=
+			plb02raqivpPGlY172r+XgYZAbJHC7p7Y+EqyGA+mPk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/PrivacyInfo.xcprivacy</key>
@@ -1452,11 +1414,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4eaGI9trJIGWCfn3lMhmKLrPyhU=
+			1cjBezsrbkZz1BaVvT4VrWqFb3M=
 			</data>
 			<key>hash2</key>
 			<data>
-			dShjCXAjRpH2/6vYEw1GNWl6/8Pf/1ebKmv7jpBAur0=
+			MovjRcgJobS8yZjaKgJnvOSnhGX0k4cGNC3nLMBeUtA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1465,44 +1427,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+			rcg7GeeTSRscbqD9i0bNnzLlkvw=
 			</data>
 			<key>hash2</key>
 			<data>
-			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
+			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oQBpequa6EP2bIV0oeaKF3vtf4c=
+			OZqGLg4/MuIGA5RkQLl85TCwE4o=
 			</data>
 			<key>hash2</key>
 			<data>
-			G0MNs8gvhZqWd3c3/MV4p/phSAD7VvXr15bPxMhq1aA=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/bu_logo@2x.data</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+mtwru9JejoXxD0IZqBa0U0UawM=
-			</data>
-			<key>hash2</key>
-			<data>
-			FcLQwj/fRQoBHL9SO/VdQ6fCdWj6lBxjAoP8HbOaaOM=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/bu_logo@3x.data</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W2jGO8ru7N6WDPaAizhoT5zVVF4=
-			</data>
-			<key>hash2</key>
-			<data>
-			ga6+snmS16+p0gfOTOTeZfA8E5NRQEMICArPOz0Rihc=
+			TmuU6Lx6rDy1EbkpumDP23Np4MGvwLCGP5mTbh8BwDU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/bu_slienceAudio.aiff</key>
@@ -1520,11 +1460,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1xcX6dAJnRfpxFnLtAYDW8Z77qE=
+			vWP0tyWFPesghuFzvTi84W+DR7Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			L8LyBjl4+gCYiH2ob96UVE0pMi8bqKjivRlkyNWD4lM=
+			Fn5XWK57VD+BOXL/cllLM5uZr+dESqPyXX9ZiY/m6+U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1533,11 +1473,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			58Npg7w8TY7shN7my/ywUxt/ARo=
+			I/YOJMwnEvW+fLvZXEqCeiunXaY=
 			</data>
 			<key>hash2</key>
 			<data>
-			io08t+wX0Q05YM/MWVHq7DgwkYjLqx/6gB9Feumtngs=
+			65iXqQEuAJtzFZ7jgie8UzQbx59ZFe3Vo8BBCsXbZJo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1546,11 +1486,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RO2O9PnFEF8SaBlXqZ9d3EZMY1E=
+			8Lhv29FmccaKcj8bi5Gh25aCJ+k=
 			</data>
 			<key>hash2</key>
 			<data>
-			O/zE+6RbSukdeEf6YOuFSgVD+yhI2XVJTUdmqKoueSw=
+			Ng5pqZq6b7YiIKg9AEwY19nBsfq36z65SytbVCgcb10=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1559,11 +1499,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6uc2M/+dSxEaRY1LfYZzdLXuJcI=
+			+whNsaqT/k3/eG1CatZrZy4HO0I=
 			</data>
 			<key>hash2</key>
 			<data>
-			A158r2IWMd1vgWVkKZsAFNZJxg+UCP+jOyMov42hyhs=
+			qQ2EAEd5kdbAGzYYLMbODuecYqGxXSq9to/OQKu/P88=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1585,11 +1525,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SyxuD58zcWd2cK25u6HOlxWnUIQ=
+			NvWc7B7n48Ah5fZk1r7A2fLgGVI=
 			</data>
 			<key>hash2</key>
 			<data>
-			nW5apDuJrMLzXQu9t9RR/AbTmo/BSoafp7zUsU3YMdg=
+			IEiHItAZh/dhvDyP1oS+ZFh2zQmSGqe/TkYGbbrJ8uY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1598,11 +1538,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rhzNvMqLlBZxFoxa9ZBcYmlch30=
+			lba9De5NBlWa2G+w3GokkItPQBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			CB6Qy5wRPAzcZIPiyyme15E3Y0SgLvumpF9EKQtuRpY=
+			otKFz3LjT7q8zDRvEA2kMQsMCGI9S4B8Ku8EwSX7ZLM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1611,11 +1551,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AxrqixmnReya7x4HzVhH+XnJ+iQ=
+			70Gym7bSvbVo6AJl/d+JbLhGJ5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZOamkKCCJhUlPZWpxwd54Wf9l1nuSIK6/F2ITlpunLY=
+			gsQWDOOsVdV84uLcTRgAFklOu0HzTMgzP2kvP2ItEQI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1624,11 +1564,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			j7eK4DXWtr7srFumMxen2eX5TkM=
+			OfnxOVDEI97cIIEva8ElQNc9bU0=
 			</data>
 			<key>hash2</key>
 			<data>
-			bqiWFCLI1pNOXU3gf0wIjTFoX6TozQEG3mnyWXVq/MY=
+			6nGqTPQ232MLtKMoq3ljTPE7vdDMPl3f+oXeBcoIFTI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1637,11 +1577,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6dFl2OWKvGDXOQW6SZvpyRxspR8=
+			7GtXqdQ8EU823hNd/UZSviX30MM=
 			</data>
 			<key>hash2</key>
 			<data>
-			UC2i63NJi5WOGzkmXZaRR1qP11jVoFvtv6qyCkEUnlk=
+			D1YhLh9vwk/ejwmaVezE+zb7cfWIlv00vNzTlDaKn1E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1661,11 +1601,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Iik9TjhcuZ3yronDbVFhrUkDNRc=
+			9ApJC7JWAmPT10a6ZJu6Reeut4I=
 			</data>
 			<key>hash2</key>
 			<data>
-			iKb3qTGlrwLyoWHwJXkgmYDgytEvFpQLvMuKfnUY/Fo=
+			bvl4VRPC6v0AjdxuFIJIfCvJQ626BvfR5m8l/AVRyQQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1674,11 +1614,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hyv+NaqMKUOArsTBwTwyxRiGd9Y=
+			kyzDgYTKX3v3Lvxkb7pvQsCVWZg=
 			</data>
 			<key>hash2</key>
 			<data>
-			vneXsIUSdNVGIbFz+1BT12BvCw7NvM+FaiQmn7Tiupw=
+			DnidKGWskLXcXMLHLZbz2M+HOm8rM9uZXlwt0b5lCGk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1687,11 +1627,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pd7No7wzDyU/4ehShd/PIXHYxQw=
+			qBEUCp4s69vNYIJLHwcTYOHVyHU=
 			</data>
 			<key>hash2</key>
 			<data>
-			HwLgI99tR9x5xiTJCg+dZZZqP1keIiRMyiM6te67tMQ=
+			GEAlV53O+hCz4pjMU+IG6uMQEY4e0nIdBsNIZbX87/o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1711,22 +1651,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
+			rcg7GeeTSRscbqD9i0bNnzLlkvw=
 			</data>
 			<key>hash2</key>
 			<data>
-			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
+			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WvKpn2sLPi9SwI9KV+pFWkLelIM=
+			ycyRpj+Dg2VTBMtI66foGlRCJ9U=
 			</data>
 			<key>hash2</key>
 			<data>
-			zJxBMa19gID3am+FbOWS7hC8QVncCsl5mZgmNwCpKmI=
+			3tjFpP3lkOmFqM7D6xv1SoJcRBiEnoF09jMa6ny5mzg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1735,11 +1675,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xvcxbmHj7ATa68mXJIYVjEMxQuw=
+			W37CPidBpy3Nq3VrLUpCrBZ+rfs=
 			</data>
 			<key>hash2</key>
 			<data>
-			3kUIAPfK0iKCqh3UPmp3aqFWIDL/ZhVBTNXIAXrumrA=
+			Jd9kb3glzKBbTYqPnHRNFL1cgQZVo33VUpFei7qrXlU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1748,22 +1688,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wQQCb7uQfc6Kp8ExG3QTsXGCStQ=
+			7giI8woOhzPbjCp80KM3sU/UREk=
 			</data>
 			<key>hash2</key>
 			<data>
-			1wbFVOYarJxeoWAhntvReUj3eju0dLpsm4Xz2T+PM7c=
+			8QpBT6wYxZHx4pEHg7xx+j/elIG+ihkVIhKIDKsvas0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j14MAF+acsCeRtTugubXq7SsLPA=
+			PgbL7jqsoMQF8OcS1wIGEe9PHnE=
 			</data>
 			<key>hash2</key>
 			<data>
-			DlWsmp6I0FRrOz6yVHn8S+23vY3s8Ko9Pz3Lq6Vegu4=
+			b0mhNJj9KTpeVtm0oakhg0ic9jqQod0WwpY4UeImgYA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1772,11 +1712,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zWW5DO89ZZ5Eg5wcs1pKOxWlbnE=
+			MS3LHiFloA9WeIYBme0Sy20vz+4=
 			</data>
 			<key>hash2</key>
 			<data>
-			YMztNgl/h5BT9k2orUMnlAGdHHedBM6t0SvaKF7y2aU=
+			nS/CueG2X7uWcbOVfFXNwbC/qJhXRGQsMdH/pCGh5H4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1809,22 +1749,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6SB7NkfFOMd/JWU/IatplCl6Bx4=
+			2hURGi1p7Et8IYcsxZN3kVCg+Oo=
 			</data>
 			<key>hash2</key>
 			<data>
-			HEroAOOv2ouClItpFvIdoFHRaf/UhCYYOyD0AW8l4OU=
+			FkrpyX6q/g2TAnAuXI4zb8x2Pm3n2TFxRG/qmRBNeSs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B0cBxLSCW98vpj+cFPghejtzalg=
+			ZPJ9dRXWAMw+u9iXUZkJYK9bdG0=
 			</data>
 			<key>hash2</key>
 			<data>
-			bEn5pXBvnOzJMVS6iI8I75hZbnIxHcLDGO8ChcIRvdg=
+			yDMhLETvpsuL3P5cdzmOcRjkIa+vvRay2kxdQvdqdSQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1842,33 +1782,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CYrPj5o14ZkSV5tSn5grkOsAghM=
+			pZgJtaS87VxkBCvY16zwaqmAaCE=
 			</data>
 			<key>hash2</key>
 			<data>
-			8V5c4BLIe9MsFdcdL9C5VLmy/Z1YGNgXs4IK89k9WjU=
+			3cu4uVpH9IsN23j4j7+Dke1P9ExWiWRGUeVPWGkOVUk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xFoo41tIvFKNNRq9NwW500wQtM8=
+			6+hfCdXnixKm+657WUiXeprAN1c=
 			</data>
 			<key>hash2</key>
 			<data>
-			iWz5BbK1YoGNpY4Z4ltSUIPxhjj2ubDXxq6kEamQdYU=
+			wdHo+ZxIr5eFSs8kgj8Q2jorPZzSti3/PJO59hk3RRw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tlJbdVbnzyI7WhIS/NlLTOcayII=
+			ybuJtSvR+Hb9lfX7ARQ0Mbr8o8E=
 			</data>
 			<key>hash2</key>
 			<data>
-			iHwqW+P5ym2tP1B+Q+cp4TvcdxSYnn3Rqum51Ek6ofM=
+			gAFD/fTkjt/kx65MS+p7WSAQgnjgaXFp0+fHfzomJY4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1886,11 +1826,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lhV2AvMhvmXEgUlG+5qQ7WQ/UsY=
+			AtoOgd/2wiE1fCn/kSM7Sov0WMQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			V0q77WxiXlvV4pybSiHd6sz1k55yPuE9rQ1mK0YpL7I=
+			m/TSrUtMo+NpVZ8fPwujfaz0prLoOpyq3mqylZGv+bI=
 			</data>
 		</dict>
 	</dict>

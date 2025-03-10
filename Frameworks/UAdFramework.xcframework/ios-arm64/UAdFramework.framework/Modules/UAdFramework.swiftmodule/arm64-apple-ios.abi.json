@@ -1,9 +1,1299 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "UAdFramework",
+    "printedName": "UAdFramework",
     "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdConfigConvert",
+        "printedName": "UAdConfigConvert",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdConfigConvert",
+                "printedName": "UAdFramework.UAdConfigConvert",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdConfigConvert"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdConfigConvert(im)init",
+            "mangledName": "$s12UAdFramework0A13ConfigConvertCACycfc",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "setConfig",
+            "printedName": "setConfig(key:userId:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdConfigConvert(im)setConfigWithKey:userId:",
+            "mangledName": "$s12UAdFramework0A13ConfigConvertC03setC03key6userIdySS_SStF",
+            "moduleName": "UAdFramework",
+            "objc_name": "setConfigWithKey:userId:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "initializeAd",
+            "printedName": "initializeAd(view:callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSObject",
+                "printedName": "ObjectiveC.NSObject",
+                "usr": "c:objc(cs)NSObject"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdConfigConvert(im)initializeAdWithView:callback:",
+            "mangledName": "$s12UAdFramework0A13ConfigConvertC12initializeAd4view8callbackySo16UIViewControllerC_So8NSObjectCtF",
+            "moduleName": "UAdFramework",
+            "objc_name": "initializeAdWithView:callback:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@UAdFramework@objc(cs)UAdConfigConvert",
+        "mangledName": "$s12UAdFramework0A13ConfigConvertC",
+        "moduleName": "UAdFramework",
+        "objc_name": "UAdConfigConvert",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UserMessagingPlatform",
+        "printedName": "UserMessagingPlatform",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdAdmobConvert",
+        "printedName": "UAdAdmobConvert",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdAdmobConvert",
+                "printedName": "UAdFramework.UAdAdmobConvert",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdAdmobConvert"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdAdmobConvert(im)init",
+            "mangledName": "$s12UAdFramework0A12AdmobConvertCACycfc",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "initAdmob",
+            "printedName": "initAdmob()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdAdmobConvert(im)initAdmob",
+            "mangledName": "$s12UAdFramework0A12AdmobConvertC04initC0yyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getAdmobAppId",
+            "printedName": "getAdmobAppId()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdAdmobConvert(im)getAdmobAppId",
+            "mangledName": "$s12UAdFramework0A12AdmobConvertC03getC5AppIdSSyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@UAdFramework@objc(cs)UAdAdmobConvert",
+        "mangledName": "$s12UAdFramework0A12AdmobConvertC",
+        "moduleName": "UAdFramework",
+        "objc_name": "UAdAdmobConvert",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdBannerConvert",
+        "printedName": "UAdBannerConvert",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdBannerConvert",
+                "printedName": "UAdFramework.UAdBannerConvert",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdBannerConvert"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdBannerConvert(im)init",
+            "mangledName": "$s12UAdFramework0A13BannerConvertCACycfc",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "createUAdBanner",
+            "printedName": "createUAdBanner(adCode:callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSObject",
+                "printedName": "ObjectiveC.NSObject",
+                "usr": "c:objc(cs)NSObject"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdBannerConvert(im)createUAdBannerWithAdCode:callback:",
+            "mangledName": "$s12UAdFramework0A13BannerConvertC06createaC06adCode8callbackySS_So8NSObjectCtF",
+            "moduleName": "UAdFramework",
+            "objc_name": "createUAdBannerWithAdCode:callback:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setHandler",
+            "printedName": "setHandler(callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSObject",
+                "printedName": "ObjectiveC.NSObject",
+                "usr": "c:objc(cs)NSObject"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdBannerConvert(im)setHandlerWithCallback:",
+            "mangledName": "$s12UAdFramework0A13BannerConvertC10setHandler8callbackySo8NSObjectC_tF",
+            "moduleName": "UAdFramework",
+            "objc_name": "setHandlerWithCallback:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setSize",
+            "printedName": "setSize(size:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdBannerConvert(im)setSizeWithSize:",
+            "mangledName": "$s12UAdFramework0A13BannerConvertC7setSize4sizeySS_tF",
+            "moduleName": "UAdFramework",
+            "objc_name": "setSizeWithSize:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getView",
+            "printedName": "getView()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdBannerConvert(im)getView",
+            "mangledName": "$s12UAdFramework0A13BannerConvertC7getViewSo6UIViewCSgyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "load",
+            "printedName": "load()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdBannerConvert(im)load",
+            "mangledName": "$s12UAdFramework0A13BannerConvertC4loadyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@UAdFramework@objc(cs)UAdBannerConvert",
+        "mangledName": "$s12UAdFramework0A13BannerConvertC",
+        "moduleName": "UAdFramework",
+        "objc_name": "UAdBannerConvert",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdNativeAdConvert",
+        "printedName": "UAdNativeAdConvert",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdNativeAdConvert",
+                "printedName": "UAdFramework.UAdNativeAdConvert",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdConvert"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdConvert(im)init",
+            "mangledName": "$s12UAdFramework0A15NativeAdConvertCACycfc",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "createUAdNativeAd",
+            "printedName": "createUAdNativeAd(adCode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdConvert(im)createUAdNativeAdWithAdCode:",
+            "mangledName": "$s12UAdFramework0A15NativeAdConvertC06createacD06adCodeySS_tF",
+            "moduleName": "UAdFramework",
+            "objc_name": "createUAdNativeAdWithAdCode:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setHandler",
+            "printedName": "setHandler(callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSObject",
+                "printedName": "ObjectiveC.NSObject",
+                "usr": "c:objc(cs)NSObject"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdConvert(im)setHandlerWithCallback:",
+            "mangledName": "$s12UAdFramework0A15NativeAdConvertC10setHandler8callbackySo8NSObjectC_tF",
+            "moduleName": "UAdFramework",
+            "objc_name": "setHandlerWithCallback:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setNib",
+            "printedName": "setNib(name:id:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdConvert(im)setNibWithName:id:",
+            "mangledName": "$s12UAdFramework0A15NativeAdConvertC6setNib4name2idySS_SStF",
+            "moduleName": "UAdFramework",
+            "objc_name": "setNibWithName:id:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "load",
+            "printedName": "load()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdConvert(im)load",
+            "mangledName": "$s12UAdFramework0A15NativeAdConvertC4loadyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAdConvert",
+        "mangledName": "$s12UAdFramework0A15NativeAdConvertC",
+        "moduleName": "UAdFramework",
+        "objc_name": "UAdNativeAdConvert",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdRewardConvert",
+        "printedName": "UAdRewardConvert",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdRewardConvert",
+                "printedName": "UAdFramework.UAdRewardConvert",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdRewardConvert"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdRewardConvert(im)init",
+            "mangledName": "$s12UAdFramework0A13RewardConvertCACycfc",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "createUAdReward",
+            "printedName": "createUAdReward(viewController:adCode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdRewardConvert(im)createUAdRewardWithViewController:adCode:",
+            "mangledName": "$s12UAdFramework0A13RewardConvertC06createaC014viewController6adCodeySo06UIViewG0C_SStF",
+            "moduleName": "UAdFramework",
+            "objc_name": "createUAdRewardWithViewController:adCode:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setHandler",
+            "printedName": "setHandler(callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSObject",
+                "printedName": "ObjectiveC.NSObject",
+                "usr": "c:objc(cs)NSObject"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdRewardConvert(im)setHandlerWithCallback:",
+            "mangledName": "$s12UAdFramework0A13RewardConvertC10setHandler8callbackySo8NSObjectC_tF",
+            "moduleName": "UAdFramework",
+            "objc_name": "setHandlerWithCallback:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "load",
+            "printedName": "load()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdRewardConvert(im)load",
+            "mangledName": "$s12UAdFramework0A13RewardConvertC4loadyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "show",
+            "printedName": "show()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdRewardConvert(im)show",
+            "mangledName": "$s12UAdFramework0A13RewardConvertC4showyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@UAdFramework@objc(cs)UAdRewardConvert",
+        "mangledName": "$s12UAdFramework0A13RewardConvertC",
+        "moduleName": "UAdFramework",
+        "objc_name": "UAdRewardConvert",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UAdCommonConvert",
+        "printedName": "UAdCommonConvert",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UAdCommonConvert",
+                "printedName": "UAdFramework.UAdCommonConvert",
+                "usr": "c:@M@UAdFramework@objc(cs)UAdCommonConvert"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdCommonConvert(im)init",
+            "mangledName": "$s12UAdFramework0A13CommonConvertCACycfc",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "checkAttachCallback",
+            "printedName": "checkAttachCallback()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdCommonConvert(im)checkAttachCallback",
+            "mangledName": "$s12UAdFramework0A13CommonConvertC19checkAttachCallbackyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@UAdFramework@objc(cs)UAdCommonConvert",
+        "mangledName": "$s12UAdFramework0A13CommonConvertC",
+        "moduleName": "UAdFramework",
+        "objc_name": "UAdCommonConvert",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC",
+          "RawDocComment"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
       {
         "kind": "Import",
         "name": "AppTrackingTransparency",
@@ -63,7 +1353,23 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "TypeDecl",
@@ -203,6 +1509,22 @@
         "moduleName": "UAdFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -302,6 +1624,22 @@
         "moduleName": "UAdFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -427,6 +1765,22 @@
         "moduleName": "UAdFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -594,6 +1948,22 @@
         "moduleName": "UAdFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -683,6 +2053,22 @@
         "moduleName": "UAdFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -753,8 +2139,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12UAdFramework0A5SetupC12initializeAd6config10completion7failureyAA0A6ConfigC_yycySSctFZ",
-            "mangledName": "$s12UAdFramework0A5SetupC12initializeAd6config10completion7failureyAA0A6ConfigC_yycySSctFZ",
+            "usr": "s:12UAdFramework0A5SetupC12initializeAd6config10completion7failureyAA0A6ConfigC_yyYbcySSYbctFZ",
+            "mangledName": "$s12UAdFramework0A5SetupC12initializeAd6config10completion7failureyAA0A6ConfigC_yyYbcySSYbctFZ",
             "moduleName": "UAdFramework",
             "static": true,
             "declAttributes": [
@@ -822,8 +2208,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:12UAdFramework0A5SetupC12initializeAd4view6config10completion7failureySo16UIViewControllerC_AA0A6ConfigCyycySSctFZ",
-            "mangledName": "$s12UAdFramework0A5SetupC12initializeAd4view6config10completion7failureySo16UIViewControllerC_AA0A6ConfigCyycySSctFZ",
+            "usr": "s:12UAdFramework0A5SetupC12initializeAd4view6config10completion7failureySo16UIViewControllerC_AA0A6ConfigCyyYbcySSYbctFZ",
+            "mangledName": "$s12UAdFramework0A5SetupC12initializeAd4view6config10completion7failureySo16UIViewControllerC_AA0A6ConfigCyyYbcySSYbctFZ",
             "moduleName": "UAdFramework",
             "static": true,
             "declAttributes": [
@@ -840,7 +2226,23 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -851,13 +2253,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Alamofire",
-        "printedName": "Alamofire",
-        "declKind": "Import",
-        "moduleName": "UAdFramework"
       },
       {
         "kind": "Import",
@@ -928,6 +2323,7 @@
             "mangledName": "$s12UAdFramework0A6BannerC6adCode0D5EventACSS_AA0aC8Delegate_pSgtcfc",
             "moduleName": "UAdFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -953,6 +2349,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Override"
@@ -975,6 +2372,7 @@
             "mangledName": "$s12UAdFramework0A6BannerC4loadyyF",
             "moduleName": "UAdFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -997,6 +2395,7 @@
             "mangledName": "$s12UAdFramework0A6BannerC7getViewSo6UIViewCyF",
             "moduleName": "UAdFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1024,6 +2423,7 @@
             "mangledName": "$s12UAdFramework0A6BannerC7setSize4sizeyAA0cE0O_tF",
             "moduleName": "UAdFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1057,6 +2457,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -1068,6 +2469,7 @@
         "mangledName": "$s12UAdFramework0A6BannerC",
         "moduleName": "UAdFramework",
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjC"
@@ -1080,6 +2482,27 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1157,13 +2580,6 @@
       },
       {
         "kind": "Import",
-        "name": "Alamofire",
-        "printedName": "Alamofire",
-        "declKind": "Import",
-        "moduleName": "UAdFramework"
-      },
-      {
-        "kind": "Import",
         "name": "GoogleMobileAds",
         "printedName": "GoogleMobileAds",
         "declKind": "Import",
@@ -1196,6 +2612,16 @@
         "printedName": "UnityAds",
         "declKind": "Import",
         "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -1237,6 +2663,62 @@
         "printedName": "UAdNativeAd",
         "children": [
           {
+            "kind": "Function",
+            "name": "hitTest",
+            "printedName": "hitTest(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIEvent?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIEvent",
+                    "printedName": "UIKit.UIEvent",
+                    "usr": "c:objc(cs)UIEvent"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdNativeAd(im)hitTest:withEvent:",
+            "mangledName": "$s12UAdFramework0A8NativeAdC7hitTest_4withSo6UIViewCSgSo7CGPointV_So7UIEventCSgtF",
+            "moduleName": "UAdFramework",
+            "overriding": true,
+            "objc_name": "hitTest:withEvent:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(adCode:adEvent:)",
@@ -1273,6 +2755,7 @@
             "mangledName": "$s12UAdFramework0A8NativeAdC6adCode0E5EventACSS_AA0acD8Delegate_pSgtcfc",
             "moduleName": "UAdFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1294,6 +2777,7 @@
             "mangledName": "$s12UAdFramework0A8NativeAdC4loadyyF",
             "moduleName": "UAdFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1327,6 +2811,7 @@
             "mangledName": "$s12UAdFramework0A8NativeAdC6setNib4name2idySS_SStF",
             "moduleName": "UAdFramework",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1357,6 +2842,38 @@
             "mangledName": "$s12UAdFramework0A8NativeAdC03getacD9ContainerAA0acdF0CSgyF",
             "moduleName": "UAdFramework",
             "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getUAdNativeAdImpressionView",
+            "printedName": "getUAdNativeAdImpressionView()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework0A8NativeAdC03getacD14ImpressionViewSo6UIViewCSgyF",
+            "mangledName": "$s12UAdFramework0A8NativeAdC03getacD14ImpressionViewSo6UIViewCSgyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1390,6 +2907,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -1401,6 +2919,7 @@
         "mangledName": "$s12UAdFramework0A8NativeAdC",
         "moduleName": "UAdFramework",
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjC"
@@ -1413,6 +2932,27 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1475,13 +3015,6 @@
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -1699,6 +3232,9 @@
             "moduleName": "UAdFramework",
             "static": true,
             "implicit": true,
+            "declAttributes": [
+              "Nonisolated"
+            ],
             "accessors": [
               {
                 "kind": "Accessor",
@@ -1741,6 +3277,20 @@
         ],
         "enumRawTypeName": "String",
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1806,6 +3356,13 @@
             ],
             "usr": "s:s12CaseIterableP",
             "mangledName": "$ss12CaseIterableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -1851,8 +3408,9 @@
             "moduleName": "UAdFramework",
             "declAttributes": [
               "HasInitialValue",
-              "HasStorage",
+              "Preconcurrency",
               "Custom",
+              "HasStorage",
               "AccessControl",
               "ReferenceOwnership",
               "IBOutlet",
@@ -1963,8 +3521,9 @@
             "moduleName": "UAdFramework",
             "declAttributes": [
               "HasInitialValue",
-              "HasStorage",
+              "Preconcurrency",
               "Custom",
+              "HasStorage",
               "AccessControl",
               "ReferenceOwnership",
               "IBOutlet",
@@ -2075,8 +3634,9 @@
             "moduleName": "UAdFramework",
             "declAttributes": [
               "HasInitialValue",
-              "HasStorage",
+              "Preconcurrency",
               "Custom",
+              "HasStorage",
               "AccessControl",
               "ReferenceOwnership",
               "IBOutlet",
@@ -2187,8 +3747,9 @@
             "moduleName": "UAdFramework",
             "declAttributes": [
               "HasInitialValue",
-              "HasStorage",
+              "Preconcurrency",
               "Custom",
+              "HasStorage",
               "AccessControl",
               "ReferenceOwnership",
               "IBOutlet",
@@ -2299,8 +3860,9 @@
             "moduleName": "UAdFramework",
             "declAttributes": [
               "HasInitialValue",
-              "HasStorage",
+              "Preconcurrency",
               "Custom",
+              "HasStorage",
               "AccessControl",
               "ReferenceOwnership",
               "IBOutlet",
@@ -2411,8 +3973,9 @@
             "moduleName": "UAdFramework",
             "declAttributes": [
               "HasInitialValue",
-              "HasStorage",
+              "Preconcurrency",
               "Custom",
+              "HasStorage",
               "AccessControl",
               "ReferenceOwnership",
               "IBOutlet",
@@ -2534,6 +4097,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -2575,6 +4139,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Required"
             ],
@@ -2587,6 +4152,7 @@
         "moduleName": "UAdFramework",
         "isOpen": true,
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjCMembers",
@@ -2600,6 +4166,27 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -2662,13 +4249,6 @@
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
             "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -2777,7 +4357,8 @@
             "mangledName": "$s12UAdFramework0A6RewardC4showyyF",
             "moduleName": "UAdFramework",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "Custom"
             ],
             "funcSelfKind": "NonMutating"
           }
@@ -2788,6 +4369,23 @@
         "moduleName": "UAdFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -2895,7 +4493,8 @@
             "mangledName": "$s12UAdFramework0A12InterstitialC4showyyF",
             "moduleName": "UAdFramework",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "Custom"
             ],
             "funcSelfKind": "NonMutating"
           }
@@ -2906,6 +4505,295 @@
         "moduleName": "UAdFramework",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NSObject",
+        "printedName": "NSObject",
+        "declKind": "Class",
+        "usr": "c:objc(cs)NSObject",
+        "moduleName": "ObjectiveC",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "NSObject",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "Dynamic"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ResponseInfo",
+        "printedName": "ResponseInfo",
+        "declKind": "Class",
+        "usr": "c:objc(cs)GADResponseInfo",
+        "moduleName": "GoogleMobileAds",
+        "isOpen": true,
+        "objc_name": "GADResponseInfo",
+        "declAttributes": [
+          "ObjC",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "InitializationStatus",
+        "printedName": "InitializationStatus",
+        "declKind": "Class",
+        "usr": "c:objc(cs)GADInitializationStatus",
+        "moduleName": "GoogleMobileAds",
+        "isOpen": true,
+        "objc_name": "GADInitializationStatus",
+        "declAttributes": [
+          "ObjC",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
         ]
       }
     ],
@@ -2913,343 +4801,343 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/Log.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdBannerConvert.swift",
+      "kind": "StringLiteral",
+      "offset": 309,
+      "length": 24,
+      "value": "\"com.adforus.uad.banner\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdBaseConvert.swift",
+      "kind": "StringLiteral",
+      "offset": 232,
+      "length": 18,
+      "value": "\"onEventWithName:\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdBaseConvert.swift",
+      "kind": "StringLiteral",
+      "offset": 315,
+      "length": 24,
+      "value": "\"setBannerViewWithView:\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdBaseConvert.swift",
+      "kind": "StringLiteral",
+      "offset": 406,
+      "length": 26,
+      "value": "\"setNativeAdViewWithView:\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdBaseConvert.swift",
+      "kind": "StringLiteral",
+      "offset": 494,
+      "length": 29,
+      "value": "\"setNativeAdImpViewWithView:\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdBaseConvert.swift",
+      "kind": "StringLiteral",
+      "offset": 591,
+      "length": 26,
+      "value": "\"setFailedMessageWithMsg:\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/Log.swift",
       "kind": "BooleanLiteral",
       "offset": 127,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdNetworkManager.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdNetworkManager.swift",
       "kind": "StringLiteral",
-      "offset": 252,
-      "length": 15,
-      "value": "\"api.mplate.kr\""
+      "offset": 151,
+      "length": 5,
+      "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdNetworkManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2980,
-      "length": 1,
-      "value": "3"
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdNetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 173,
+      "length": 6,
+      "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdNetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 301,
+      "length": 22,
+      "value": "\"http:\/\/api.mplate.kr\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdModel.swift",
       "kind": "StringLiteral",
       "offset": 255,
       "length": 5,
       "value": "\"rst\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdModel.swift",
       "kind": "StringLiteral",
       "offset": 284,
       "length": 5,
       "value": "\"msg\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdModel.swift",
       "kind": "StringLiteral",
-      "offset": 255,
-      "length": 5,
-      "value": "\"rst\""
-    },
-    {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
-      "kind": "StringLiteral",
-      "offset": 284,
-      "length": 5,
-      "value": "\"msg\""
-    },
-    {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
-      "kind": "StringLiteral",
-      "offset": 516,
+      "offset": 545,
       "length": 5,
       "value": "\"ads\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdModel.swift",
       "kind": "StringLiteral",
-      "offset": 516,
-      "length": 5,
-      "value": "\"ads\""
+      "offset": 577,
+      "length": 7,
+      "value": "\"admob\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdModel.swift",
       "kind": "StringLiteral",
-      "offset": 722,
+      "offset": 785,
       "length": 6,
       "value": "\"zone\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdModel.swift",
-      "kind": "StringLiteral",
-      "offset": 722,
-      "length": 6,
-      "value": "\"zone\""
-    },
-    {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdBanner.swift",
-      "kind": "StringLiteral",
-      "offset": 133,
-      "length": 9,
-      "value": "\"UAdFramework.UAdBanner\""
-    },
-    {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdBanner.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdBanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 3378,
+      "offset": 4561,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdBanner.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdBanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 3412,
+      "offset": 4595,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/ApiConnection.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/ApiConnection.swift",
       "kind": "BooleanLiteral",
-      "offset": 556,
+      "offset": 423,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/ApiConnection.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/ApiConnection.swift",
       "kind": "StringLiteral",
-      "offset": 3974,
+      "offset": 3822,
       "length": 6,
       "value": "\"None\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdNativeAd.swift",
-      "kind": "StringLiteral",
-      "offset": 134,
-      "length": 11,
-      "value": "\"UAdFramework.UAdNativeAd\""
-    },
-    {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdNativeAd.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdNativeAd.swift",
       "kind": "BooleanLiteral",
-      "offset": 3567,
+      "offset": 5676,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdNativeAd.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdNativeAd.swift",
       "kind": "BooleanLiteral",
-      "offset": 3601,
+      "offset": 5710,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/SPFactor.swift",
       "kind": "StringLiteral",
       "offset": 126,
       "length": 8,
       "value": "\"af_ads\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/SPFactor.swift",
       "kind": "StringLiteral",
       "offset": 199,
       "length": 7,
       "value": "\"debug\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/SPFactor.swift",
       "kind": "StringLiteral",
       "offset": 238,
       "length": 12,
       "value": "\"app_unique\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/SPFactor.swift",
       "kind": "StringLiteral",
       "offset": 276,
       "length": 6,
       "value": "\"gaid\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/SPFactor.swift",
       "kind": "StringLiteral",
       "offset": 332,
       "length": 12,
       "value": "\"ad_tacking\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/SPFactor.swift",
       "kind": "StringLiteral",
       "offset": 375,
       "length": 6,
       "value": "\"dvid\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/SPFactor.swift",
       "kind": "StringLiteral",
       "offset": 439,
       "length": 6,
       "value": "\"gdpr\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/SPFactor.swift",
       "kind": "StringLiteral",
       "offset": 499,
       "length": 9,
       "value": "\"consent\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/SPFactor.swift",
       "kind": "StringLiteral",
       "offset": 563,
       "length": 7,
       "value": "\"child\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/SPFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/SPFactor.swift",
       "kind": "StringLiteral",
       "offset": 599,
       "length": 5,
       "value": "\"uid\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/SPFactor.swift",
       "kind": "StringLiteral",
-      "offset": 153,
+      "offset": 654,
+      "length": 8,
+      "value": "\"app_id\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/BannerSize.swift",
+      "kind": "StringLiteral",
+      "offset": 163,
       "length": 8,
       "value": "\"320X50\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/BannerSize.swift",
       "kind": "StringLiteral",
-      "offset": 186,
+      "offset": 196,
       "length": 9,
       "value": "\"300X250\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/BannerSize.swift",
       "kind": "StringLiteral",
-      "offset": 220,
+      "offset": 230,
       "length": 9,
       "value": "\"320X100\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
-      "kind": "StringLiteral",
-      "offset": 153,
-      "length": 8,
-      "value": "\"320X50\""
-    },
-    {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
-      "kind": "StringLiteral",
-      "offset": 186,
-      "length": 9,
-      "value": "\"300X250\""
-    },
-    {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/BannerSize.swift",
-      "kind": "StringLiteral",
-      "offset": 220,
-      "length": 9,
-      "value": "\"320X100\""
-    },
-    {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdReward.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdReward.swift",
       "kind": "BooleanLiteral",
-      "offset": 4884,
+      "offset": 7762,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdInterstitial.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdInterstitial.swift",
       "kind": "BooleanLiteral",
-      "offset": 4823,
+      "offset": 5343,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/UAdCommon.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdCommon.swift",
       "kind": "Dictionary",
       "offset": 227,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/AdFactor.swift",
       "kind": "StringLiteral",
       "offset": 125,
       "length": 8,
       "value": "\"banner\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/AdFactor.swift",
       "kind": "StringLiteral",
       "offset": 167,
       "length": 14,
       "value": "\"interstitial\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/AdFactor.swift",
       "kind": "StringLiteral",
       "offset": 209,
       "length": 8,
       "value": "\"reward\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/AdFactor.swift",
       "kind": "StringLiteral",
       "offset": 245,
       "length": 10,
       "value": "\"nativead\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/AdFactor.swift",
       "kind": "StringLiteral",
       "offset": 285,
       "length": 5,
       "value": "\"req\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/AdFactor.swift",
       "kind": "StringLiteral",
       "offset": 320,
       "length": 6,
       "value": "\"load\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/AdFactor.swift",
       "kind": "StringLiteral",
       "offset": 356,
       "length": 6,
       "value": "\"show\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/AdFactor.swift",
       "kind": "StringLiteral",
       "offset": 393,
       "length": 7,
       "value": "\"close\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/AdFactor.swift",
       "kind": "StringLiteral",
       "offset": 430,
       "length": 6,
       "value": "\"fail\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/AdFactor.swift",
       "kind": "StringLiteral",
       "offset": 466,
       "length": 6,
       "value": "\"noad\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/app\/ios\/ExtendsProject\/UAdFramework\/AdFactor.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/AdFactor.swift",
       "kind": "StringLiteral",
       "offset": 509,
       "length": 4,

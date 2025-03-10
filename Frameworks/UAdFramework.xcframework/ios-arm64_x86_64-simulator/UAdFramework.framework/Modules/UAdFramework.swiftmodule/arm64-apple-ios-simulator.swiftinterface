@@ -1,8 +1,8 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
-// swift-module-flags: -target arm64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Osize -enable-bare-slash-regex -module-name UAdFramework
+// swift-compiler-version: Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 6 -enforce-exclusivity=checked -Onone -module-name UAdFramework
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import AdSupport
-import Alamofire
 import AppTrackingTransparency
 import Foundation
 import GoogleMobileAds
@@ -16,6 +16,55 @@ import UserMessagingPlatform
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+@_inheritsConvenienceInitializers @objc(UAdConfigConvert) public class UAdConfigConvert : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  @objc public func setConfig(key: Swift.String, userId: Swift.String)
+  @objc public func initializeAd(view: UIKit.UIViewController, callback: ObjectiveC.NSObject)
+  @objc deinit
+}
+#if compiler(>=5.3) && $RetroactiveAttribute
+extension ObjectiveC.NSObject : @unchecked @retroactive Swift.Sendable {
+}
+#else
+extension ObjectiveC.NSObject : @unchecked Swift.Sendable {
+}
+#endif
+@_inheritsConvenienceInitializers @objc(UAdAdmobConvert) public class UAdAdmobConvert : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  @objc public func initAdmob()
+  @objc public func getAdmobAppId() -> Swift.String
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(UAdBannerConvert) public class UAdBannerConvert : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  @objc public func createUAdBanner(adCode: Swift.String, callback: ObjectiveC.NSObject)
+  @objc public func setHandler(callback: ObjectiveC.NSObject)
+  @objc public func setSize(size: Swift.String)
+  @_Concurrency.MainActor @objc public func getView() -> UIKit.UIView?
+  @objc public func load()
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(UAdNativeAdConvert) public class UAdNativeAdConvert : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  @objc public func createUAdNativeAd(adCode: Swift.String)
+  @objc public func setHandler(callback: ObjectiveC.NSObject)
+  @objc public func setNib(name: Swift.String, id: Swift.String)
+  @objc public func load()
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(UAdRewardConvert) public class UAdRewardConvert : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  @objc public func createUAdReward(viewController: UIKit.UIViewController, adCode: Swift.String)
+  @objc public func setHandler(callback: ObjectiveC.NSObject)
+  @objc public func load()
+  @_Concurrency.MainActor @objc public func show()
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @objc(UAdCommonConvert) public class UAdCommonConvert : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  @objc public func checkAttachCallback()
+  @objc deinit
+}
 @_hasMissingDesignatedInitializers public class UAdConfig {
   @objc deinit
 }
@@ -54,60 +103,76 @@ public protocol UAdNativeAdDelegate {
   func onNativeAdClick()
 }
 @_hasMissingDesignatedInitializers public class UAdSetup {
-  public static func initializeAd(config: UAdFramework.UAdConfig, completion: @escaping () -> Swift.Void, failure: @escaping (Swift.String) -> Swift.Void)
-  public static func initializeAd(view: UIKit.UIViewController, config: UAdFramework.UAdConfig, completion: @escaping () -> Swift.Void, failure: @escaping (Swift.String) -> Swift.Void)
+  public static func initializeAd(config: UAdFramework.UAdConfig, completion: @escaping @Sendable () -> Swift.Void, failure: @escaping @Sendable (Swift.String) -> Swift.Void)
+  public static func initializeAd(view: UIKit.UIViewController, config: UAdFramework.UAdConfig, completion: @escaping @Sendable () -> Swift.Void, failure: @escaping @Sendable (Swift.String) -> Swift.Void)
   @objc deinit
 }
-@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class UAdBanner : UIKit.UIView {
-  @_Concurrency.MainActor(unsafe) public init(adCode: Swift.String, adEvent: (any UAdFramework.UAdBannerDelegate)?)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func didMoveToSuperview()
-  @_Concurrency.MainActor(unsafe) public func load()
-  @_Concurrency.MainActor(unsafe) public func getView() -> UIKit.UIView
-  @_Concurrency.MainActor(unsafe) public func setSize(size: UAdFramework.BannerSize)
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class UAdBanner : UIKit.UIView {
+  @_Concurrency.MainActor @preconcurrency public init(adCode: Swift.String, adEvent: (any UAdFramework.UAdBannerDelegate)?)
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func didMoveToSuperview()
+  @_Concurrency.MainActor @preconcurrency public func load()
+  @_Concurrency.MainActor @preconcurrency public func getView() -> UIKit.UIView
+  @_Concurrency.MainActor @preconcurrency public func setSize(size: UAdFramework.BannerSize)
   @objc deinit
 }
-@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class UAdNativeAd : UIKit.UIView {
-  @_Concurrency.MainActor(unsafe) public init(adCode: Swift.String, adEvent: (any UAdFramework.UAdNativeAdDelegate)?)
-  @_Concurrency.MainActor(unsafe) public func load()
-  @_Concurrency.MainActor(unsafe) public func setNib(name: Swift.String, id: Swift.String)
-  @_Concurrency.MainActor(unsafe) public func getUAdNativeAdContainer() -> UAdFramework.UAdNativeAdContainer?
+#if compiler(>=5.3) && $RetroactiveAttribute
+extension GoogleMobileAds.ResponseInfo : @unchecked @retroactive Swift.Sendable {
+}
+#else
+extension GoogleMobileAds.ResponseInfo : @unchecked Swift.Sendable {
+}
+#endif
+#if compiler(>=5.3) && $RetroactiveAttribute
+extension GoogleMobileAds.InitializationStatus : @unchecked @retroactive Swift.Sendable {
+}
+#else
+extension GoogleMobileAds.InitializationStatus : @unchecked Swift.Sendable {
+}
+#endif
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class UAdNativeAd : UIKit.UIView {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func hitTest(_ point: CoreFoundation.CGPoint, with event: UIKit.UIEvent?) -> UIKit.UIView?
+  @_Concurrency.MainActor @preconcurrency public init(adCode: Swift.String, adEvent: (any UAdFramework.UAdNativeAdDelegate)?)
+  @_Concurrency.MainActor @preconcurrency public func load()
+  @_Concurrency.MainActor @preconcurrency public func setNib(name: Swift.String, id: Swift.String)
+  @_Concurrency.MainActor @preconcurrency public func getUAdNativeAdContainer() -> UAdFramework.UAdNativeAdContainer?
+  @_Concurrency.MainActor @preconcurrency public func getUAdNativeAdImpressionView() -> UIKit.UIView?
   @objc deinit
 }
-public enum BannerSize : Swift.String, Swift.CaseIterable {
+public enum BannerSize : Swift.String, Swift.CaseIterable, Swift.Sendable {
   case SIZE_320X50
   case SIZE_300X250
   case SIZE_320X100
   public init?(rawValue: Swift.String)
   public typealias AllCases = [UAdFramework.BannerSize]
   public typealias RawValue = Swift.String
-  public static var allCases: [UAdFramework.BannerSize] {
+  nonisolated public static var allCases: [UAdFramework.BannerSize] {
     get
   }
   public var rawValue: Swift.String {
     get
   }
 }
-@objc @_inheritsConvenienceInitializers @objcMembers @_Concurrency.MainActor(unsafe) open class UAdNativeAdContainer : UIKit.UIView {
-  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var icon: UIKit.UIImageView!
-  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var title: UIKit.UILabel!
-  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var body: UIKit.UILabel!
-  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var media: UIKit.UIView!
-  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var price: UIKit.UILabel!
-  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var action: UIKit.UIButton!
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+@objc @_inheritsConvenienceInitializers @objcMembers @_Concurrency.MainActor @preconcurrency open class UAdNativeAdContainer : UIKit.UIView {
+  @objc @IBOutlet @_Concurrency.MainActor @preconcurrency weak public var icon: UIKit.UIImageView!
+  @objc @IBOutlet @_Concurrency.MainActor @preconcurrency weak public var title: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor @preconcurrency weak public var body: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor @preconcurrency weak public var media: UIKit.UIView!
+  @objc @IBOutlet @_Concurrency.MainActor @preconcurrency weak public var price: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor @preconcurrency weak public var action: UIKit.UIButton!
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-public class UAdReward {
+@_hasMissingDesignatedInitializers public class UAdReward {
   public init(viewController: UIKit.UIViewController, adCode: Swift.String, adEvent: (any UAdFramework.UAdRewardDelegate)?)
   public func load()
-  public func show()
+  @_Concurrency.MainActor public func show()
   @objc deinit
 }
 public class UAdInterstitial {
   public init(viewController: UIKit.UIViewController, adCode: Swift.String, adEvent: (any UAdFramework.UAdInterstitialDelegate)?)
   public func load()
-  public func show()
+  @_Concurrency.MainActor public func show()
   @objc deinit
 }
 extension UAdFramework.BannerSize : Swift.Equatable {}

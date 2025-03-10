@@ -7,7 +7,7 @@
   // global context.
   } else {
     var exports = {};
-    var versions = ['1.4.12-iab4299'];
+    var versions = ['1.5.2-iab4528'];
     var additionalVersionString = 'default';
     if (!!additionalVersionString) {
        versions.push(additionalVersionString);
@@ -549,11 +549,11 @@ $jscomp.polyfill("Map", function(a) {
 }, "es6", "es3");
 var module$exports$omid$common$constants = {AdEventType:{IMPRESSION:"impression", LOADED:"loaded", GEOMETRY_CHANGE:"geometryChange", SESSION_START:"sessionStart", SESSION_ERROR:"sessionError", SESSION_FINISH:"sessionFinish", MEDIA:"media", VIDEO:"video", START:"start", FIRST_QUARTILE:"firstQuartile", MIDPOINT:"midpoint", THIRD_QUARTILE:"thirdQuartile", COMPLETE:"complete", PAUSE:"pause", RESUME:"resume", BUFFER_START:"bufferStart", BUFFER_FINISH:"bufferFinish", SKIPPED:"skipped", VOLUME_CHANGE:"volumeChange", 
 PLAYER_STATE_CHANGE:"playerStateChange", AD_USER_INTERACTION:"adUserInteraction", STATE_CHANGE:"stateChange",}, MediaEventType:{LOADED:"loaded", START:"start", FIRST_QUARTILE:"firstQuartile", MIDPOINT:"midpoint", THIRD_QUARTILE:"thirdQuartile", COMPLETE:"complete", PAUSE:"pause", RESUME:"resume", BUFFER_START:"bufferStart", BUFFER_FINISH:"bufferFinish", SKIPPED:"skipped", VOLUME_CHANGE:"volumeChange", PLAYER_STATE_CHANGE:"playerStateChange", AD_USER_INTERACTION:"adUserInteraction",}, ImpressionType:{DEFINED_BY_JAVASCRIPT:"definedByJavaScript", 
-UNSPECIFIED:"unspecified", LOADED:"loaded", BEGIN_TO_RENDER:"beginToRender", ONE_PIXEL:"onePixel", VIEWABLE:"viewable", AUDIBLE:"audible", OTHER:"other",}, ErrorType:{GENERIC:"generic", VIDEO:"video", MEDIA:"media",}, AdSessionType:{NATIVE:"native", HTML:"html", JAVASCRIPT:"javascript",}, EventOwner:{NATIVE:"native", JAVASCRIPT:"javascript", NONE:"none",}, AccessMode:{FULL:"full", DOMAIN:"domain", LIMITED:"limited",}, AppState:{BACKGROUNDED:"backgrounded", FOREGROUNDED:"foregrounded",}, Environment:{APP:"app", 
-WEB:"web",}, DeviceCategory:{CTV:"ctv", DESKTOP:"desktop", MOBILE:"mobile", OTHER:"other",}, InteractionType:{CLICK:"click", INVITATION_ACCEPT:"invitationAccept",}, CreativeType:{DEFINED_BY_JAVASCRIPT:"definedByJavaScript", HTML_DISPLAY:"htmlDisplay", NATIVE_DISPLAY:"nativeDisplay", VIDEO:"video", AUDIO:"audio",}, MediaType:{DISPLAY:"display", VIDEO:"video",}, Reason:{NOT_FOUND:"notFound", HIDDEN:"hidden", BACKGROUNDED:"backgrounded", VIEWPORT:"viewport", OBSTRUCTED:"obstructed", CLIPPED:"clipped", 
-UNMEASURABLE:"unmeasurable", NO_WINDOW_FOCUS:"noWindowFocus", NO_OUTPUT_DEVICE:"noOutputDevice",}, SupportedFeatures:{CONTAINER:"clid", VIDEO:"vlid",}, VideoPosition:{PREROLL:"preroll", MIDROLL:"midroll", POSTROLL:"postroll", STANDALONE:"standalone",}, VideoPlayerState:{MINIMIZED:"minimized", COLLAPSED:"collapsed", NORMAL:"normal", EXPANDED:"expanded", FULLSCREEN:"fullscreen",}, NativeViewKeys:{X:"x", LEFT:"left", Y:"y", TOP:"top", WIDTH:"width", HEIGHT:"height", AD_SESSION_ID:"adSessionId", IS_FRIENDLY_OBSTRUCTION_FOR:"isFriendlyObstructionFor", 
-CLIPS_TO_BOUNDS:"clipsToBounds", CHILD_VIEWS:"childViews", END_X:"endX", END_Y:"endY", OBSTRUCTIONS:"obstructions", OBSTRUCTION_CLASS:"obstructionClass", OBSTRUCTION_PURPOSE:"obstructionPurpose", OBSTRUCTION_REASON:"obstructionReason", PIXELS:"pixels", HAS_WINDOW_FOCUS:"hasWindowFocus",}, MeasurementStateChangeSource:{CONTAINER:"container", CREATIVE:"creative",}, ElementMarkup:{OMID_ELEMENT_CLASS_NAME:"omid-element",}, CommunicationType:{NONE:"NONE", DIRECT:"DIRECT", POST_MESSAGE:"POST_MESSAGE",}, 
-OmidImplementer:{OMSDK:"omsdk",}, MessageMethod:{IDENTIFY_SERVICE_WINDOW:"identifyServiceWindow",}};
+UNSPECIFIED:"unspecified", LOADED:"loaded", BEGIN_TO_RENDER:"beginToRender", ONE_PIXEL:"onePixel", VIEWABLE:"viewable", AUDIBLE:"audible", OTHER:"other",}, ErrorType:{GENERIC:"generic", VIDEO:"video", MEDIA:"media",}, AdSessionType:{NATIVE:"native", HTML:"html", JAVASCRIPT:"javascript",}, EventOwner:{NATIVE:"native", JAVASCRIPT:"javascript", NONE:"none",}, SessionOwner:{JAVASCRIPT:"javascript", NATIVE:"native",}, AccessMode:{FULL:"full", DOMAIN:"domain", LIMITED:"limited",}, AppState:{BACKGROUNDED:"backgrounded", 
+FOREGROUNDED:"foregrounded",}, DeviceLockState:{LOCKED:"locked", UNLOCKED:"unlocked",}, Environment:{APP:"app", WEB:"web",}, DeviceCategory:{CTV:"ctv", DESKTOP:"desktop", MOBILE:"mobile", OTHER:"other",}, InteractionType:{CLICK:"click", INVITATION_ACCEPT:"invitationAccept",}, CreativeType:{DEFINED_BY_JAVASCRIPT:"definedByJavaScript", HTML_DISPLAY:"htmlDisplay", NATIVE_DISPLAY:"nativeDisplay", VIDEO:"video", AUDIO:"audio",}, MediaType:{DISPLAY:"display", VIDEO:"video",}, Reason:{NOT_FOUND:"notFound", 
+HIDDEN:"hidden", BACKGROUNDED:"backgrounded", PICTURE_IN_PICTURE:"pictureInPicture", DEVICE_LOCKED:"deviceLocked", VIEWPORT:"viewport", OBSTRUCTED:"obstructed", CLIPPED:"clipped", UNMEASURABLE:"unmeasurable", NO_WINDOW_FOCUS:"noWindowFocus", NO_OUTPUT_DEVICE:"noOutputDevice",}, SupportedFeatures:{CONTAINER:"clid", VIDEO:"vlid",}, VideoPosition:{PREROLL:"preroll", MIDROLL:"midroll", POSTROLL:"postroll", STANDALONE:"standalone",}, VideoPlayerState:{MINIMIZED:"minimized", COLLAPSED:"collapsed", NORMAL:"normal", 
+EXPANDED:"expanded", FULLSCREEN:"fullscreen",}, NativeViewKeys:{X:"x", LEFT:"left", Y:"y", TOP:"top", WIDTH:"width", HEIGHT:"height", AD_SESSION_ID:"adSessionId", IS_FRIENDLY_OBSTRUCTION_FOR:"isFriendlyObstructionFor", CLIPS_TO_BOUNDS:"clipsToBounds", CHILD_VIEWS:"childViews", END_X:"endX", END_Y:"endY", OBSTRUCTIONS:"obstructions", OBSTRUCTION_CLASS:"obstructionClass", OBSTRUCTION_PURPOSE:"obstructionPurpose", OBSTRUCTION_REASON:"obstructionReason", PIXELS:"pixels", HAS_WINDOW_FOCUS:"hasWindowFocus",
+}, MeasurementStateChangeSource:{CONTAINER:"container", CREATIVE:"creative",}, ElementMarkup:{OMID_ELEMENT_CLASS_NAME:"omid-element",}, CommunicationType:{NONE:"NONE", DIRECT:"DIRECT", POST_MESSAGE:"POST_MESSAGE",}, OmidImplementer:{OMSDK:"omsdk",}, MessageMethod:{IDENTIFY_SERVICE_WINDOW:"identifyServiceWindow",}};
 var module$contents$omid$common$InternalMessage_GUID_KEY = "omid_message_guid", module$contents$omid$common$InternalMessage_METHOD_KEY = "omid_message_method", module$contents$omid$common$InternalMessage_VERSION_KEY = "omid_message_version", module$contents$omid$common$InternalMessage_ARGS_KEY = "omid_message_args", module$exports$omid$common$InternalMessage = function(a, b, c, d) {
   this.guid = a;
   this.method = b;
@@ -757,29 +757,29 @@ function module$contents$omid$common$guid_generateGuid() {
   });
 }
 module$exports$omid$common$guid.generateGuid = module$contents$omid$common$guid_generateGuid;
-var module$exports$omid$common$logger = {};
-function module$contents$omid$common$logger_error() {
+var module$exports$omid$common$Logger.shared = {};
+function module$contents$omid$common$Logger.shared_error() {
   var a = $jscomp.getRestArguments.apply(0, arguments);
-  module$contents$omid$common$logger_executeLog(function() {
+  module$contents$omid$common$Logger.shared_executeLog(function() {
     throw new (Function.prototype.bind.apply(Error, [null, "Could not complete the test successfully - "].concat($jscomp.arrayFromIterable(a))))();
   }, function() {
     return console.error.apply(console, $jscomp.arrayFromIterable(a));
   });
 }
-function module$contents$omid$common$logger_debug() {
+function module$contents$omid$common$Logger.shared_debug() {
   var a = $jscomp.getRestArguments.apply(0, arguments);
-  module$contents$omid$common$logger_executeLog(function() {
+  module$contents$omid$common$Logger.shared_executeLog(function() {
   }, function() {
     return console.error.apply(console, $jscomp.arrayFromIterable(a));
   });
 }
-function module$contents$omid$common$logger_executeLog(a, b) {
+function module$contents$omid$common$Logger.shared_executeLog(a, b) {
   "undefined" !== typeof jasmine && jasmine ? a() : "undefined" !== typeof console && console && console.error && b();
 }
-module$exports$omid$common$logger.error = module$contents$omid$common$logger_error;
-module$exports$omid$common$logger.debug = module$contents$omid$common$logger_debug;
+module$exports$omid$common$Logger.shared.error = module$contents$omid$common$Logger.shared_error;
+module$exports$omid$common$Logger.shared.debug = module$contents$omid$common$Logger.shared_debug;
 var module$exports$omid$common$eventTypedefs = {};
-var module$exports$omid$common$version = {ApiVersion:"1.0", Version:"1.4.12-iab4299"};
+var module$exports$omid$common$version = {ApiVersion:"1.0", Version:"1.5.2-iab4528"};
 var module$exports$omid$common$VersionUtils = {}, module$contents$omid$common$VersionUtils_SEMVER_DIGITS_NUMBER = 3;
 function module$contents$omid$common$VersionUtils_isValidVersion(a) {
   return /\d+\.\d+\.\d+(-.*)?/.test(a);
@@ -875,7 +875,7 @@ function module$contents$omid$common$windowUtils_isTopWindowAccessible(a) {
   }
 }
 function module$contents$omid$common$windowUtils_removeDomElements(a) {
-  a.type === module$exports$omid$common$constants.AdEventType.SESSION_START && ("undefined" !== typeof a.data.context.videoElement && (a.data.context.videoElement = "DOM Video Element - Present but not parsed to avoid parse error"), "undefined" !== typeof a.data.context.slotElement && (a.data.context.slotElement = "DOM Slot Element - Present but not parsed to avoid parse error"));
+  a.type === module$exports$omid$common$constants.AdEventType.SESSION_START && ("undefined" !== typeof a.data.context.videoElement && (a.data.context.videoElement = "Video Element (" + a.data.context.videoElement.id + ")"), "undefined" !== typeof a.data.context.slotElement && (a.data.context.slotElement = "Slot Element (" + a.data.context.slotElement.id + ")"));
   return a;
 }
 function module$contents$omid$common$windowUtils_evaluatePageUrl(a) {
@@ -1151,13 +1151,13 @@ module$exports$omid$sessionClient$AdSession.prototype.handleInternalMessage_ = f
     var d = module$contents$omid$common$ArgsSerDe_deserializeMessageArgs(module$exports$omid$common$version.Version, a);
     this.callbackMap_[c].apply(this, d);
   }
-  "error" === b && window.console && module$contents$omid$common$logger_error(a);
+  "error" === b && window.console && module$contents$omid$common$Logger.shared_error(a);
 };
 module$exports$omid$sessionClient$AdSession.prototype.sendInterfaceMessage_ = function(a, b, c) {
   try {
     this.sessionInterface_.sendMessage(a, b, c);
   } catch (d) {
-    module$contents$omid$common$logger_error("Failed to communicate with SessionInterface with error:"), module$contents$omid$common$logger_error(d);
+    module$contents$omid$common$Logger.shared_error("Failed to communicate with SessionInterface with error:"), module$contents$omid$common$Logger.shared_error(d);
   }
 };
 module$exports$omid$sessionClient$AdSession.prototype.assertSessionRunning = function() {
@@ -1347,9 +1347,32 @@ function module$contents$omid$common$FloatComparer_lessThanOrRoughlyEqual(a, b) 
 function module$contents$omid$common$FloatComparer_greaterThanOrRoughlyEqual(a, b) {
   return a > b || module$contents$omid$common$FloatComparer_roughlyEqual(a, b);
 }
+module$exports$omid$common$FloatComparer.roughlyEqual = module$contents$omid$common$FloatComparer_roughlyEqual;
 module$exports$omid$common$FloatComparer.roughlyLessThan = module$contents$omid$common$FloatComparer_roughlyLessThan;
 module$exports$omid$common$FloatComparer.lessThanOrRoughlyEqual = module$contents$omid$common$FloatComparer_lessThanOrRoughlyEqual;
 module$exports$omid$common$FloatComparer.greaterThanOrRoughlyEqual = module$contents$omid$common$FloatComparer_greaterThanOrRoughlyEqual;
+var module$exports$omid$common$webtvUtils = {}, module$contents$omid$common$webtvUtils_WebOSSystem, module$contents$omid$common$webtvUtils_WEBOSSYSTEM = "webOSSystem";
+function module$contents$omid$common$webtvUtils_getWebOSSystem(a) {
+  if ("object" === typeof a && "object" === typeof a[module$contents$omid$common$webtvUtils_WEBOSSYSTEM]) {
+    return a[module$contents$omid$common$webtvUtils_WEBOSSYSTEM];
+  }
+}
+module$exports$omid$common$webtvUtils.getWebOSSystem = module$contents$omid$common$webtvUtils_getWebOSSystem;
+function module$contents$omid$common$webtvUtils_isWebOS(a) {
+  return "object" === typeof module$contents$omid$common$webtvUtils_getWebOSSystem(a);
+}
+module$exports$omid$common$webtvUtils.isWebOS = module$contents$omid$common$webtvUtils_isWebOS;
+var module$contents$omid$common$webtvUtils_Tizen, module$contents$omid$common$webtvUtils_TIZEN = "tizen";
+function module$contents$omid$common$webtvUtils_getTizen(a) {
+  if ("object" === typeof a && "object" === typeof a[module$contents$omid$common$webtvUtils_TIZEN]) {
+    return a[module$contents$omid$common$webtvUtils_TIZEN];
+  }
+}
+module$exports$omid$common$webtvUtils.getTizen = module$contents$omid$common$webtvUtils_getTizen;
+function module$contents$omid$common$webtvUtils_isTizen(a) {
+  return "object" === typeof module$contents$omid$common$webtvUtils_getTizen(a);
+}
+module$exports$omid$common$webtvUtils.isTizen = module$contents$omid$common$webtvUtils_isTizen;
 
 }, typeof exports === 'undefined' ? undefined : exports));
 
