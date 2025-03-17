@@ -33,6 +33,7 @@ extension ObjectiveC.NSObject : @unchecked Swift.Sendable {
   @objc override dynamic public init()
   @objc public func initAdmob()
   @objc public func getAdmobAppId() -> Swift.String
+  @objc public func getDebugMode() -> Swift.String
   @objc deinit
 }
 @_inheritsConvenienceInitializers @objc(UAdBannerConvert) public class UAdBannerConvert : ObjectiveC.NSObject {

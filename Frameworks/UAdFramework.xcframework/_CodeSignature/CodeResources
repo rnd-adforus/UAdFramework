@@ -4,6 +4,18 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		1xTPpGjRoATe1UQoCl+1mWLd7Jk=
+		</data>
+		<key>ios-arm64/.DS_Store</key>
+		<data>
+		NmH9Cv6+frSUohXbj49nV26oPfM=
+		</data>
+		<key>ios-arm64/UAdFramework.framework/.DS_Store</key>
+		<data>
+		rdXIJt8pbbREMEjI3ECx4zMann4=
+		</data>
 		<key>ios-arm64/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
 		A65+n1GUH4pTfuamwM4Gy5zptWo=
@@ -14,7 +26,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		NHS3zqEZW/jeJihdffTt2ALazOs=
+		XZFQzD79lQKDvDOWXNtalLyRuVk=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -22,7 +34,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Headers/UAdFramework-Swift.h</key>
 		<data>
-		PK1opkD4a0695WPHTRhG+UYNcBo=
+		arOLYZWFKvBRL+L2x+RQ+JoZNkE=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Headers/UAdFramework.h</key>
 		<data>
@@ -34,11 +46,11 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		dTNYuyxjvvleBl4n1Jz7XVWHqws=
+		AwaRHuqASZ22MwqXGNvkNeyGpX4=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		DRG9oVwVjFb9ZronwwpJKK/Bqvg=
+		bAdMQvsaToBUat6ggscvTZcZyNE=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -46,7 +58,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		DRG9oVwVjFb9ZronwwpJKK/Bqvg=
+		bAdMQvsaToBUat6ggscvTZcZyNE=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/module.modulemap</key>
 		<data>
@@ -269,7 +281,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UAdFramework</key>
 		<data>
-		QVlurdLPxrnrrIoU4KYdanPxf9M=
+		DtEmUiXG4WsE/pQvaxyomwsh+6s=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<data>
@@ -297,7 +309,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		I0EWDEWSSoZMHPOxDJSzhIWA/pc=
+		gqbkMlg0d/UQiDoJ+KF6vldE4yw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
@@ -309,7 +321,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		xFLaHS3BEP708E7Sy6abxnVm1AQ=
+		mJwCzkkVCTZvV2gFogg6H1ULUEs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -317,7 +329,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Headers/UAdFramework-Swift.h</key>
 		<data>
-		Zh37XZ1rLwXw6nqLRN03l5JtAF4=
+		qs60/UiQwVOvpmQ9mFS5LQtF5wU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Headers/UAdFramework.h</key>
 		<data>
@@ -329,11 +341,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		dTNYuyxjvvleBl4n1Jz7XVWHqws=
+		AwaRHuqASZ22MwqXGNvkNeyGpX4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5zj6pRLbu1jWATbL8ZxjTWkAuOM=
+		E3tC7KiWq1LMtalBvmisKOuCNOw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -341,15 +353,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5zj6pRLbu1jWATbL8ZxjTWkAuOM=
+		E3tC7KiWq1LMtalBvmisKOuCNOw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		dTNYuyxjvvleBl4n1Jz7XVWHqws=
+		AwaRHuqASZ22MwqXGNvkNeyGpX4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		PHpl4Ved3ye9+ll7ItcdE5yhuCA=
+		Kj1hUwSslQWbEW7GgLlLdhzyXMw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -357,7 +369,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PHpl4Ved3ye9+ll7ItcdE5yhuCA=
+		Kj1hUwSslQWbEW7GgLlLdhzyXMw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/module.modulemap</key>
 		<data>
@@ -580,7 +592,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UAdFramework</key>
 		<data>
-		2hURGi1p7Et8IYcsxZN3kVCg+Oo=
+		kecKf/IdHodtK8p68QWnkxL777g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<data>
@@ -608,7 +620,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		AtoOgd/2wiE1fCn/kSM7Sov0WMQ=
+		MXaiG+xAjk/NT7opuEU2zy0+rYM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -639,11 +651,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NHS3zqEZW/jeJihdffTt2ALazOs=
+			XZFQzD79lQKDvDOWXNtalLyRuVk=
 			</data>
 			<key>hash2</key>
 			<data>
-			xhlUDC5XNfS6orZfxjbUR7i4HUsvsbXL7ezcCQZ74Os=
+			2oRRnY5uEwRsiYVi37mm3m1me+r9hg7a8nj7pbqSWe4=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -661,11 +673,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PK1opkD4a0695WPHTRhG+UYNcBo=
+			arOLYZWFKvBRL+L2x+RQ+JoZNkE=
 			</data>
 			<key>hash2</key>
 			<data>
-			GexPtFc0FJXcFjCy2TODb9yjgTw4MuhfYaJOGUU8uhM=
+			o1aRbB0tE4nn1XrHGGUqC8cV3VduTvui3GB4GRdX2E4=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/Headers/UAdFramework.h</key>
@@ -694,22 +706,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dTNYuyxjvvleBl4n1Jz7XVWHqws=
+			AwaRHuqASZ22MwqXGNvkNeyGpX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			cbeewhfiVaCaSsxoCmrHaCZiNHsRnWZu7of1U2bmUlY=
+			+tkCLJvpRex4nqRS0/fYBt+6WpXFtF6KsBUFkZLarRY=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DRG9oVwVjFb9ZronwwpJKK/Bqvg=
+			bAdMQvsaToBUat6ggscvTZcZyNE=
 			</data>
 			<key>hash2</key>
 			<data>
-			n66yBz2X46ObhSjECw1DZA5NzyJFoPvK3+e/wim6iKs=
+			C07/nXjYYMqrxlnhWg2x1wcE7SP9m2VvhXNo6h2aN2M=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -727,11 +739,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DRG9oVwVjFb9ZronwwpJKK/Bqvg=
+			bAdMQvsaToBUat6ggscvTZcZyNE=
 			</data>
 			<key>hash2</key>
 			<data>
-			n66yBz2X46ObhSjECw1DZA5NzyJFoPvK3+e/wim6iKs=
+			C07/nXjYYMqrxlnhWg2x1wcE7SP9m2VvhXNo6h2aN2M=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/Modules/module.modulemap</key>
@@ -1117,11 +1129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QVlurdLPxrnrrIoU4KYdanPxf9M=
+			DtEmUiXG4WsE/pQvaxyomwsh+6s=
 			</data>
 			<key>hash2</key>
 			<data>
-			a90h1a8C7IPw7rzAm3ctmO1mNcAF6DIL2RWKUH02WMk=
+			jJox/uryGU1j+rdUTPb5CGLEnjVf1IEPaE/9rVBkaEU=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
@@ -1194,11 +1206,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I0EWDEWSSoZMHPOxDJSzhIWA/pc=
+			gqbkMlg0d/UQiDoJ+KF6vldE4yw=
 			</data>
 			<key>hash2</key>
 			<data>
-			xE+wzOLAIkLxU/v5F95vwcLBjHa7XggkfbnvQSQ7Lf4=
+			HYHzX7RyDB5LhWAHbItzqkvsi8Z3NXcHmRuerZGaFNc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
@@ -1227,11 +1239,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xFLaHS3BEP708E7Sy6abxnVm1AQ=
+			mJwCzkkVCTZvV2gFogg6H1ULUEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			/w3SmiQKW1Y155c8K/Or1kHUa7+wthx8pQimsFBOb1E=
+			r9qP9R8K4IuGYE2RlghOOzuJO0xqKbETOaws0P0YuR0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1249,11 +1261,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zh37XZ1rLwXw6nqLRN03l5JtAF4=
+			qs60/UiQwVOvpmQ9mFS5LQtF5wU=
 			</data>
 			<key>hash2</key>
 			<data>
-			BcazBjWavY6yeKRz0Bz6bhn60yggRanJfgS+kmkKD/0=
+			85TuIRtIztJyD38jIZIdjbP73B4DRPkYoZjvW0dP2+0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Headers/UAdFramework.h</key>
@@ -1282,22 +1294,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dTNYuyxjvvleBl4n1Jz7XVWHqws=
+			AwaRHuqASZ22MwqXGNvkNeyGpX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			cbeewhfiVaCaSsxoCmrHaCZiNHsRnWZu7of1U2bmUlY=
+			+tkCLJvpRex4nqRS0/fYBt+6WpXFtF6KsBUFkZLarRY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5zj6pRLbu1jWATbL8ZxjTWkAuOM=
+			E3tC7KiWq1LMtalBvmisKOuCNOw=
 			</data>
 			<key>hash2</key>
 			<data>
-			jw0lOVLK1BZCGRJPR61L/ocLEcPFi+FJv/4GFKt5x60=
+			iA3lexGBp6kpYTMVDuvKi7NYwi5IbHr5/Eddk5VgYaE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1315,33 +1327,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5zj6pRLbu1jWATbL8ZxjTWkAuOM=
+			E3tC7KiWq1LMtalBvmisKOuCNOw=
 			</data>
 			<key>hash2</key>
 			<data>
-			jw0lOVLK1BZCGRJPR61L/ocLEcPFi+FJv/4GFKt5x60=
+			iA3lexGBp6kpYTMVDuvKi7NYwi5IbHr5/Eddk5VgYaE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dTNYuyxjvvleBl4n1Jz7XVWHqws=
+			AwaRHuqASZ22MwqXGNvkNeyGpX4=
 			</data>
 			<key>hash2</key>
 			<data>
-			cbeewhfiVaCaSsxoCmrHaCZiNHsRnWZu7of1U2bmUlY=
+			+tkCLJvpRex4nqRS0/fYBt+6WpXFtF6KsBUFkZLarRY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PHpl4Ved3ye9+ll7ItcdE5yhuCA=
+			Kj1hUwSslQWbEW7GgLlLdhzyXMw=
 			</data>
 			<key>hash2</key>
 			<data>
-			JliDsBCsPSk7vb3dL2cvRCPryNf62osVvAtDiTlbr3s=
+			8qBkP6ID1lE+FnT2uuJzX29FfrMj3Rsf7I5m9F3ZUcE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1359,11 +1371,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PHpl4Ved3ye9+ll7ItcdE5yhuCA=
+			Kj1hUwSslQWbEW7GgLlLdhzyXMw=
 			</data>
 			<key>hash2</key>
 			<data>
-			JliDsBCsPSk7vb3dL2cvRCPryNf62osVvAtDiTlbr3s=
+			8qBkP6ID1lE+FnT2uuJzX29FfrMj3Rsf7I5m9F3ZUcE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/module.modulemap</key>
@@ -1749,11 +1761,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2hURGi1p7Et8IYcsxZN3kVCg+Oo=
+			kecKf/IdHodtK8p68QWnkxL777g=
 			</data>
 			<key>hash2</key>
 			<data>
-			FkrpyX6q/g2TAnAuXI4zb8x2Pm3n2TFxRG/qmRBNeSs=
+			HA0u7jh7Nyj3q7cMd4HLEXjnR0Vjgy9WmfAF0UGAZHE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
@@ -1826,11 +1838,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AtoOgd/2wiE1fCn/kSM7Sov0WMQ=
+			MXaiG+xAjk/NT7opuEU2zy0+rYM=
 			</data>
 			<key>hash2</key>
 			<data>
-			m/TSrUtMo+NpVZ8fPwujfaz0prLoOpyq3mqylZGv+bI=
+			yapSaIWN5TVUXkWk0YbzXX8/PfRh5iddzfFztbbxZiw=
 			</data>
 		</dict>
 	</dict>

@@ -14,7 +14,7 @@
 		</data>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		NHS3zqEZW/jeJihdffTt2ALazOs=
+		XZFQzD79lQKDvDOWXNtalLyRuVk=
 		</data>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/UAdFramework-Swift.h</key>
 		<data>
-		PK1opkD4a0695WPHTRhG+UYNcBo=
+		arOLYZWFKvBRL+L2x+RQ+JoZNkE=
 		</data>
 		<key>Headers/UAdFramework.h</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		dTNYuyxjvvleBl4n1Jz7XVWHqws=
+		AwaRHuqASZ22MwqXGNvkNeyGpX4=
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		DRG9oVwVjFb9ZronwwpJKK/Bqvg=
+		bAdMQvsaToBUat6ggscvTZcZyNE=
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		DRG9oVwVjFb9ZronwwpJKK/Bqvg=
+		bAdMQvsaToBUat6ggscvTZcZyNE=
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WirtoZvjpLoXrPFfOFlsbeThbhU=
+		mN2ftPSFYQIGrQdD4V0wq62qG0E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -316,7 +316,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xhlUDC5XNfS6orZfxjbUR7i4HUsvsbXL7ezcCQZ74Os=
+			2oRRnY5uEwRsiYVi37mm3m1me+r9hg7a8nj7pbqSWe4=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -330,7 +330,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GexPtFc0FJXcFjCy2TODb9yjgTw4MuhfYaJOGUU8uhM=
+			o1aRbB0tE4nn1XrHGGUqC8cV3VduTvui3GB4GRdX2E4=
 			</data>
 		</dict>
 		<key>Headers/UAdFramework.h</key>
@@ -344,14 +344,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cbeewhfiVaCaSsxoCmrHaCZiNHsRnWZu7of1U2bmUlY=
+			+tkCLJvpRex4nqRS0/fYBt+6WpXFtF6KsBUFkZLarRY=
 			</data>
 		</dict>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n66yBz2X46ObhSjECw1DZA5NzyJFoPvK3+e/wim6iKs=
+			C07/nXjYYMqrxlnhWg2x1wcE7SP9m2VvhXNo6h2aN2M=
 			</data>
 		</dict>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -365,14 +365,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n66yBz2X46ObhSjECw1DZA5NzyJFoPvK3+e/wim6iKs=
+			C07/nXjYYMqrxlnhWg2x1wcE7SP9m2VvhXNo6h2aN2M=
 			</data>
 		</dict>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6z5+26GUBYP8PxVBIh/Wp31hYe7Vq56fY+ltG3vwjss=
+			HapEJVRfqTwdojdct/+W8O5b/dB7wBJkNpFU7D79h0k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -314,6 +314,7 @@ SWIFT_CLASS_NAMED("UAdAdmobConvert")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (void)initAdmob SWIFT_METHOD_FAMILY(none);
 - (NSString * _Nonnull)getAdmobAppId SWIFT_WARN_UNUSED_RESULT;
+- (NSString * _Nonnull)getDebugMode SWIFT_WARN_UNUSED_RESULT;
 @end
 
 @class NSCoder;
@@ -723,6 +724,7 @@ SWIFT_CLASS_NAMED("UAdAdmobConvert")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (void)initAdmob SWIFT_METHOD_FAMILY(none);
 - (NSString * _Nonnull)getAdmobAppId SWIFT_WARN_UNUSED_RESULT;
+- (NSString * _Nonnull)getDebugMode SWIFT_WARN_UNUSED_RESULT;
 @end
 
 @class NSCoder;

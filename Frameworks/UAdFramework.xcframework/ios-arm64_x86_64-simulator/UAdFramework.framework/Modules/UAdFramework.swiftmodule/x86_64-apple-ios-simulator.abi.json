@@ -298,6 +298,28 @@
               "ObjC"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getDebugMode",
+            "printedName": "getDebugMode()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@UAdFramework@objc(cs)UAdAdmobConvert(im)getDebugMode",
+            "mangledName": "$s12UAdFramework0A12AdmobConvertC12getDebugModeSSyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -4843,9 +4865,9 @@
       "value": "\"setFailedMessageWithMsg:\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/Log.swift",
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdLog.swift",
       "kind": "BooleanLiteral",
-      "offset": 127,
+      "offset": 130,
       "length": 5,
       "value": "false"
     },
@@ -4908,14 +4930,14 @@
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdBanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 4561,
+      "offset": 4570,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdBanner.swift",
       "kind": "BooleanLiteral",
-      "offset": 4595,
+      "offset": 4604,
       "length": 5,
       "value": "false"
     },
@@ -4929,21 +4951,35 @@
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/ApiConnection.swift",
       "kind": "StringLiteral",
-      "offset": 3822,
+      "offset": 3834,
       "length": 6,
       "value": "\"None\""
     },
     {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 123,
+      "length": 7,
+      "value": "\"1.2.0\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 211,
+      "length": 14,
+      "value": "\"CFBundleName\""
+    },
+    {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdNativeAd.swift",
       "kind": "BooleanLiteral",
-      "offset": 5676,
+      "offset": 5688,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdNativeAd.swift",
       "kind": "BooleanLiteral",
-      "offset": 5710,
+      "offset": 5722,
       "length": 5,
       "value": "false"
     },
@@ -5048,14 +5084,14 @@
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdReward.swift",
       "kind": "BooleanLiteral",
-      "offset": 7762,
+      "offset": 7774,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdInterstitial.swift",
       "kind": "BooleanLiteral",
-      "offset": 5343,
+      "offset": 5352,
       "length": 5,
       "value": "false"
     },
