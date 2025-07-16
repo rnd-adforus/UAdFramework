@@ -6,15 +6,7 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		1xTPpGjRoATe1UQoCl+1mWLd7Jk=
-		</data>
-		<key>ios-arm64/.DS_Store</key>
-		<data>
-		NmH9Cv6+frSUohXbj49nV26oPfM=
-		</data>
-		<key>ios-arm64/UAdFramework.framework/.DS_Store</key>
-		<data>
-		rdXIJt8pbbREMEjI3ECx4zMann4=
+		Ne1xuhiqUXq/zhJlE8YywLmooP0=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
@@ -46,7 +38,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		AwaRHuqASZ22MwqXGNvkNeyGpX4=
+		Aw6i3yYsNwTMdo3Ll6wcusPqffk=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -87,7 +79,7 @@
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/biz.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<data>
@@ -224,7 +216,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/template.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
@@ -281,7 +273,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UAdFramework</key>
 		<data>
-		DtEmUiXG4WsE/pQvaxyomwsh+6s=
+		zi4OhVC4lBP14kexzfb9jDYti6s=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<data>
@@ -293,7 +285,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
 		<data>
-		pZgJtaS87VxkBCvY16zwaqmAaCE=
+		7sp3Ar5eWE8CR1N+eYJLzLQ6YcQ=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
 		<data>
@@ -301,7 +293,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		y7iwTjKm2nXBsoYitDsQEvITfUo=
+		kAbxToofpQr5miukISMepax511M=
 		</data>
 		<key>ios-arm64/UAdFramework.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -309,7 +301,7 @@
 		</data>
 		<key>ios-arm64/UAdFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		gqbkMlg0d/UQiDoJ+KF6vldE4yw=
+		QNE0cFn7NlW65LrvrQw640/HaSw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
 		<data>
@@ -341,7 +333,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		AwaRHuqASZ22MwqXGNvkNeyGpX4=
+		Aw6i3yYsNwTMdo3Ll6wcusPqffk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -357,7 +349,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		AwaRHuqASZ22MwqXGNvkNeyGpX4=
+		Aw6i3yYsNwTMdo3Ll6wcusPqffk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -398,7 +390,7 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/biz.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<data>
@@ -535,7 +527,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/template.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
@@ -592,7 +584,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UAdFramework</key>
 		<data>
-		kecKf/IdHodtK8p68QWnkxL777g=
+		89MkUA85D9f4pNz2hrhHGmbmpTI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
 		<data>
@@ -604,7 +596,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/omid-session-client-v1.js</key>
 		<data>
-		pZgJtaS87VxkBCvY16zwaqmAaCE=
+		7sp3Ar5eWE8CR1N+eYJLzLQ6YcQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
 		<data>
@@ -612,7 +604,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		ybuJtSvR+Hb9lfX7ARQ0Mbr8o8E=
+		aYTaCZjlC9JLlUmQ5drQqQXSGYs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -620,7 +612,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/_CodeSignature/CodeResources</key>
 		<data>
-		MXaiG+xAjk/NT7opuEU2zy0+rYM=
+		an7OOcDAbgVN5o7J8Jz4Bt94QZo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -706,11 +698,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AwaRHuqASZ22MwqXGNvkNeyGpX4=
+			Aw6i3yYsNwTMdo3Ll6wcusPqffk=
 			</data>
 			<key>hash2</key>
 			<data>
-			+tkCLJvpRex4nqRS0/fYBt+6WpXFtF6KsBUFkZLarRY=
+			DO/J+qVgGkTM488SrmYKUD/S5eifc1KHdxmYE41mH+M=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -807,11 +799,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rcg7GeeTSRscbqD9i0bNnzLlkvw=
+			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 			</data>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
@@ -1031,11 +1023,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rcg7GeeTSRscbqD9i0bNnzLlkvw=
+			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 			</data>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
@@ -1129,11 +1121,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DtEmUiXG4WsE/pQvaxyomwsh+6s=
+			zi4OhVC4lBP14kexzfb9jDYti6s=
 			</data>
 			<key>hash2</key>
 			<data>
-			jJox/uryGU1j+rdUTPb5CGLEnjVf1IEPaE/9rVBkaEU=
+			wDIHonRON6gVUazkpwZ2meSNeEKXcKpsSa6iiIR0OMY=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
@@ -1162,11 +1154,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pZgJtaS87VxkBCvY16zwaqmAaCE=
+			7sp3Ar5eWE8CR1N+eYJLzLQ6YcQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			3cu4uVpH9IsN23j4j7+Dke1P9ExWiWRGUeVPWGkOVUk=
+			Te3Jr5e6bZwJTWB4sAfgAvADNUKj/J9l6nJyJYjRWdw=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
@@ -1184,11 +1176,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			y7iwTjKm2nXBsoYitDsQEvITfUo=
+			kAbxToofpQr5miukISMepax511M=
 			</data>
 			<key>hash2</key>
 			<data>
-			WMk8fDquHO1Krvm2WZyIN+qcbObSCanx0ox3zN1VqaY=
+			MPgjqTYF7u8SIdX0k1xU+B2qnlAihheKt2GBzUvoKb0=
 			</data>
 		</dict>
 		<key>ios-arm64/UAdFramework.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1206,11 +1198,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gqbkMlg0d/UQiDoJ+KF6vldE4yw=
+			QNE0cFn7NlW65LrvrQw640/HaSw=
 			</data>
 			<key>hash2</key>
 			<data>
-			HYHzX7RyDB5LhWAHbItzqkvsi8Z3NXcHmRuerZGaFNc=
+			fRDKwIviPUn3OmHdQ/6W2hJ8hq5BPTjkwYSm88ex4kk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/AdsGlobalSDK.bundle/Info.plist</key>
@@ -1294,11 +1286,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AwaRHuqASZ22MwqXGNvkNeyGpX4=
+			Aw6i3yYsNwTMdo3Ll6wcusPqffk=
 			</data>
 			<key>hash2</key>
 			<data>
-			+tkCLJvpRex4nqRS0/fYBt+6WpXFtF6KsBUFkZLarRY=
+			DO/J+qVgGkTM488SrmYKUD/S5eifc1KHdxmYE41mH+M=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1338,11 +1330,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AwaRHuqASZ22MwqXGNvkNeyGpX4=
+			Aw6i3yYsNwTMdo3Ll6wcusPqffk=
 			</data>
 			<key>hash2</key>
 			<data>
-			+tkCLJvpRex4nqRS0/fYBt+6WpXFtF6KsBUFkZLarRY=
+			DO/J+qVgGkTM488SrmYKUD/S5eifc1KHdxmYE41mH+M=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1439,11 +1431,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rcg7GeeTSRscbqD9i0bNnzLlkvw=
+			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 			</data>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/bu_dynamic_default.json</key>
@@ -1663,11 +1655,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rcg7GeeTSRscbqD9i0bNnzLlkvw=
+			uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 			</data>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
@@ -1761,11 +1753,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kecKf/IdHodtK8p68QWnkxL777g=
+			89MkUA85D9f4pNz2hrhHGmbmpTI=
 			</data>
 			<key>hash2</key>
 			<data>
-			HA0u7jh7Nyj3q7cMd4HLEXjnR0Vjgy9WmfAF0UGAZHE=
+			y9v8wFXPHqwONiMbHm61gdMWmi99UlBrDRJQYd9yLiQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/Info.plist</key>
@@ -1794,11 +1786,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pZgJtaS87VxkBCvY16zwaqmAaCE=
+			7sp3Ar5eWE8CR1N+eYJLzLQ6YcQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			3cu4uVpH9IsN23j4j7+Dke1P9ExWiWRGUeVPWGkOVUk=
+			Te3Jr5e6bZwJTWB4sAfgAvADNUKj/J9l6nJyJYjRWdw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UnityAdsResources.bundle/omsdk-v1.js</key>
@@ -1816,11 +1808,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ybuJtSvR+Hb9lfX7ARQ0Mbr8o8E=
+			aYTaCZjlC9JLlUmQ5drQqQXSGYs=
 			</data>
 			<key>hash2</key>
 			<data>
-			gAFD/fTkjt/kx65MS+p7WSAQgnjgaXFp0+fHfzomJY4=
+			PRhYgn3MMLLPEhjeE3eDBOYr5H98rftIX6Kyqt8xUwY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/UAdFramework.framework/UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1838,11 +1830,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MXaiG+xAjk/NT7opuEU2zy0+rYM=
+			an7OOcDAbgVN5o7J8Jz4Bt94QZo=
 			</data>
 			<key>hash2</key>
 			<data>
-			yapSaIWN5TVUXkWk0YbzXX8/PfRh5iddzfFztbbxZiw=
+			5v9PEGAMRNtsjjzIZSzeagNdkG9EpshiqYKkXAe7Kos=
 			</data>
 		</dict>
 	</dict>

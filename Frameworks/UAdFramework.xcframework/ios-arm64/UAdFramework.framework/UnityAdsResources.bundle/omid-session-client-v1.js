@@ -757,27 +757,27 @@ function module$contents$omid$common$guid_generateGuid() {
   });
 }
 module$exports$omid$common$guid.generateGuid = module$contents$omid$common$guid_generateGuid;
-var module$exports$omid$common$Logger.shared = {};
-function module$contents$omid$common$Logger.shared_error() {
+var module$exports$omid$common$logger = {};
+function module$contents$omid$common$logger_error() {
   var a = $jscomp.getRestArguments.apply(0, arguments);
-  module$contents$omid$common$Logger.shared_executeLog(function() {
+  module$contents$omid$common$logger_executeLog(function() {
     throw new (Function.prototype.bind.apply(Error, [null, "Could not complete the test successfully - "].concat($jscomp.arrayFromIterable(a))))();
   }, function() {
     return console.error.apply(console, $jscomp.arrayFromIterable(a));
   });
 }
-function module$contents$omid$common$Logger.shared_debug() {
+function module$contents$omid$common$logger_debug() {
   var a = $jscomp.getRestArguments.apply(0, arguments);
-  module$contents$omid$common$Logger.shared_executeLog(function() {
+  module$contents$omid$common$logger_executeLog(function() {
   }, function() {
     return console.error.apply(console, $jscomp.arrayFromIterable(a));
   });
 }
-function module$contents$omid$common$Logger.shared_executeLog(a, b) {
+function module$contents$omid$common$logger_executeLog(a, b) {
   "undefined" !== typeof jasmine && jasmine ? a() : "undefined" !== typeof console && console && console.error && b();
 }
-module$exports$omid$common$Logger.shared.error = module$contents$omid$common$Logger.shared_error;
-module$exports$omid$common$Logger.shared.debug = module$contents$omid$common$Logger.shared_debug;
+module$exports$omid$common$logger.error = module$contents$omid$common$logger_error;
+module$exports$omid$common$logger.debug = module$contents$omid$common$logger_debug;
 var module$exports$omid$common$eventTypedefs = {};
 var module$exports$omid$common$version = {ApiVersion:"1.0", Version:"1.5.2-iab4528"};
 var module$exports$omid$common$VersionUtils = {}, module$contents$omid$common$VersionUtils_SEMVER_DIGITS_NUMBER = 3;
@@ -1151,13 +1151,13 @@ module$exports$omid$sessionClient$AdSession.prototype.handleInternalMessage_ = f
     var d = module$contents$omid$common$ArgsSerDe_deserializeMessageArgs(module$exports$omid$common$version.Version, a);
     this.callbackMap_[c].apply(this, d);
   }
-  "error" === b && window.console && module$contents$omid$common$Logger.shared_error(a);
+  "error" === b && window.console && module$contents$omid$common$logger_error(a);
 };
 module$exports$omid$sessionClient$AdSession.prototype.sendInterfaceMessage_ = function(a, b, c) {
   try {
     this.sessionInterface_.sendMessage(a, b, c);
   } catch (d) {
-    module$contents$omid$common$Logger.shared_error("Failed to communicate with SessionInterface with error:"), module$contents$omid$common$Logger.shared_error(d);
+    module$contents$omid$common$logger_error("Failed to communicate with SessionInterface with error:"), module$contents$omid$common$logger_error(d);
   }
 };
 module$exports$omid$sessionClient$AdSession.prototype.assertSessionRunning = function() {

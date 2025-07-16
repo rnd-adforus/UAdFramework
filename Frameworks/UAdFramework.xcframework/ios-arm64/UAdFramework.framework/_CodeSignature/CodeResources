@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		AwaRHuqASZ22MwqXGNvkNeyGpX4=
+		Aw6i3yYsNwTMdo3Ll6wcusPqffk=
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		mN2ftPSFYQIGrQdD4V0wq62qG0E=
+		rcHd/Bj17I1TLVoq0ucaee6UXDw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -79,7 +79,7 @@
 		</dict>
 		<key>PAGAdSDK.bundle/biz.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<data>
@@ -216,7 +216,7 @@
 		</data>
 		<key>PAGAdSDK.bundle/template.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
@@ -281,7 +281,7 @@
 		</data>
 		<key>UnityAdsResources.bundle/omid-session-client-v1.js</key>
 		<data>
-		pZgJtaS87VxkBCvY16zwaqmAaCE=
+		7sp3Ar5eWE8CR1N+eYJLzLQ6YcQ=
 		</data>
 		<key>UnityAdsResources.bundle/omsdk-v1.js</key>
 		<data>
@@ -289,7 +289,7 @@
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		y7iwTjKm2nXBsoYitDsQEvITfUo=
+		kAbxToofpQr5miukISMepax511M=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -344,7 +344,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+tkCLJvpRex4nqRS0/fYBt+6WpXFtF6KsBUFkZLarRY=
+			DO/J+qVgGkTM488SrmYKUD/S5eifc1KHdxmYE41mH+M=
 			</data>
 		</dict>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -372,7 +372,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HapEJVRfqTwdojdct/+W8O5b/dB7wBJkNpFU7D79h0k=
+			25vNf9dbygckyJixxPNpnJn1X7XKlHu/ycgc9faLSio=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -416,7 +416,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>PAGAdSDK.bundle/bu_dynamic_default.json</key>
@@ -568,7 +568,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
@@ -648,7 +648,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3cu4uVpH9IsN23j4j7+Dke1P9ExWiWRGUeVPWGkOVUk=
+			Te3Jr5e6bZwJTWB4sAfgAvADNUKj/J9l6nJyJYjRWdw=
 			</data>
 		</dict>
 		<key>UnityAdsResources.bundle/omsdk-v1.js</key>
@@ -662,7 +662,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WMk8fDquHO1Krvm2WZyIN+qcbObSCanx0ox3zN1VqaY=
+			MPgjqTYF7u8SIdX0k1xU+B2qnlAihheKt2GBzUvoKb0=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>

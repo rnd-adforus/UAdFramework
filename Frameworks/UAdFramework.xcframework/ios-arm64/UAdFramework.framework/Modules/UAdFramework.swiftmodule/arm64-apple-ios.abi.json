@@ -4865,13 +4865,6 @@
       "value": "\"setFailedMessageWithMsg:\""
     },
     {
-      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdLog.swift",
-      "kind": "BooleanLiteral",
-      "offset": 130,
-      "length": 5,
-      "value": "false"
-    },
-    {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdNetworkManager.swift",
       "kind": "StringLiteral",
       "offset": 151,
@@ -4891,6 +4884,27 @@
       "offset": 301,
       "length": 22,
       "value": "\"http:\/\/api.mplate.kr\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 123,
+      "length": 7,
+      "value": "\"1.2.0\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 211,
+      "length": 14,
+      "value": "\"CFBundleName\""
+    },
+    {
+      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdLog.swift",
+      "kind": "BooleanLiteral",
+      "offset": 130,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdModel.swift",
@@ -4951,23 +4965,9 @@
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/ApiConnection.swift",
       "kind": "StringLiteral",
-      "offset": 3834,
+      "offset": 3823,
       "length": 6,
       "value": "\"None\""
-    },
-    {
-      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdConstant.swift",
-      "kind": "StringLiteral",
-      "offset": 123,
-      "length": 7,
-      "value": "\"1.2.0\""
-    },
-    {
-      "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdConstant.swift",
-      "kind": "StringLiteral",
-      "offset": 211,
-      "length": 14,
-      "value": "\"CFBundleName\""
     },
     {
       "filePath": "\/Users\/adforus_m1\/greenofferwallv3_ios\/UAdFramework\/UAdNativeAd.swift",

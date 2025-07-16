@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		AwaRHuqASZ22MwqXGNvkNeyGpX4=
+		Aw6i3yYsNwTMdo3Ll6wcusPqffk=
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qJv8QrEeWJ40XciYW77rn+EwdIY=
+		shrSEp6WhxB3pUnxlP3DdB+U1TU=
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		AwaRHuqASZ22MwqXGNvkNeyGpX4=
+		Aw6i3yYsNwTMdo3Ll6wcusPqffk=
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		atQP4cdmNAgSqQezaAvuQT4z4Vs=
+		fOtiMvgemJoQC+qV+HDwzy55rEE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,7 +99,7 @@
 		</dict>
 		<key>PAGAdSDK.bundle/biz.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>PAGAdSDK.bundle/bu_dynamic_default.json</key>
 		<data>
@@ -236,7 +236,7 @@
 		</data>
 		<key>PAGAdSDK.bundle/template.json</key>
 		<data>
-		rcg7GeeTSRscbqD9i0bNnzLlkvw=
+		uoq1oCgLlTqpdDX/iUbLy7J1Wic=
 		</data>
 		<key>PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
 		<dict>
@@ -301,7 +301,7 @@
 		</data>
 		<key>UnityAdsResources.bundle/omid-session-client-v1.js</key>
 		<data>
-		pZgJtaS87VxkBCvY16zwaqmAaCE=
+		7sp3Ar5eWE8CR1N+eYJLzLQ6YcQ=
 		</data>
 		<key>UnityAdsResources.bundle/omsdk-v1.js</key>
 		<data>
@@ -309,7 +309,7 @@
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
-		ybuJtSvR+Hb9lfX7ARQ0Mbr8o8E=
+		aYTaCZjlC9JLlUmQ5drQqQXSGYs=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -364,7 +364,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+tkCLJvpRex4nqRS0/fYBt+6WpXFtF6KsBUFkZLarRY=
+			DO/J+qVgGkTM488SrmYKUD/S5eifc1KHdxmYE41mH+M=
 			</data>
 		</dict>
 		<key>Modules/UAdFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -392,14 +392,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uMZOQ6JzswMzgwWNV4ZuargoF/ixppWia33xn1H2XNk=
+			pSmgD4wubUkNgHs330jwUnfpayGSLJ6eh0JilbgE3aQ=
 			</data>
 		</dict>
 		<key>Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+tkCLJvpRex4nqRS0/fYBt+6WpXFtF6KsBUFkZLarRY=
+			DO/J+qVgGkTM488SrmYKUD/S5eifc1KHdxmYE41mH+M=
 			</data>
 		</dict>
 		<key>Modules/UAdFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -427,7 +427,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xDWa1l92Cm1VEyIFhm8uZIte4PSwWlAu/MbocZf/5ms=
+			nG7j4/0Z8yinVMd0tpOIHdNGYZIH74kVnxChJVYAq78=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -471,7 +471,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>PAGAdSDK.bundle/bu_dynamic_default.json</key>
@@ -623,7 +623,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN/XKdLCPjaYaY=
 			</data>
 		</dict>
 		<key>PAGAdSDK.bundle/th.lproj/BULanguage.strings</key>
@@ -703,7 +703,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3cu4uVpH9IsN23j4j7+Dke1P9ExWiWRGUeVPWGkOVUk=
+			Te3Jr5e6bZwJTWB4sAfgAvADNUKj/J9l6nJyJYjRWdw=
 			</data>
 		</dict>
 		<key>UnityAdsResources.bundle/omsdk-v1.js</key>
@@ -717,7 +717,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gAFD/fTkjt/kx65MS+p7WSAQgnjgaXFp0+fHfzomJY4=
+			PRhYgn3MMLLPEhjeE3eDBOYr5H98rftIX6Kyqt8xUwY=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
